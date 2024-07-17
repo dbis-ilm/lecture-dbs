@@ -1,0 +1,514 @@
+{
+    "aufgabe1-1": {
+        "ordered": false,
+        "attributes": [
+            "Title",
+            "Year"
+        ],
+        "equals": [
+            ["To Kill A Mockingbird", 1960],
+            ["Breakfast At Tiffany's", 1958],
+            ["The Catcher In The Rye", 1951],
+            ["Lord Of The Rings - The Fellowship Of The Ring", 1954],
+            ["Lord Of The Rings - The Two Towers", 1954],
+            ["Lord Of The Rings - The Return Of The King", 1955],
+            ["Franny and Zooey", 1961],
+            ["Tender Is The Night", 1934],
+            ["The Great Gatsby", 1925],
+            ["This Side of Paradise", 1920],
+            ["The Grass Harp", 1951],
+            ["Other Voices, Other Rooms", 1948],
+            ["Pride and Prejudice", 1813],
+            ["Sense and Sensibility", 1811],
+            ["Emma", 1815],
+            ["Wuthering Heights", 1847],
+            ["On the Road", 1957],
+            ["Big Sur", 1962],
+            ["Naked Lunch", 1959],
+            ["The New York Trilogy", 1987]
+        ]
+    },
+    "aufgabe1-2": {
+        "ordered": false,
+        "attributes": [
+            "StId",
+            "StName",
+            "Major",
+            "Age"
+        ],
+        "equals": [
+            [2, "Holden Caulfield", "CS", 25],
+            [4, "Paul Varjak", "CS", 31]
+        ]
+    },
+    "aufgabe1-3": {
+        "ordered": false,
+        "attributes": [
+            "StId",
+            "StName",
+            "Major",
+            "Age",
+            "DocId",
+            "Title",
+            "Publisher",
+            "Year"
+        ],
+        "equals": [
+            [1, "Peter Pan", "SF", 23, 1, "To Kill A Mockingbird", "Lippincott", 1960],
+            [1, "Peter Pan", "SF", 23, 2, "Breakfast At Tiffany's", "Random House", 1958],
+            [1, "Peter Pan", "SF", 23, 3, "The Catcher In The Rye", "Little, Brown and Company", 1951],
+            [1, "Peter Pan", "SF", 23, 4, "Lord Of The Rings - The Fellowship Of The Ring", "Allen & Unwin", 1954],
+            [1, "Peter Pan", "SF", 23, 5, "Lord Of The Rings - The Two Towers", "Allen & Unwin", 1954],
+            [1, "Peter Pan", "SF", 23, 6, "Lord Of The Rings - The Return Of The King", "Allen & Unwin", 1955],
+            [1, "Peter Pan", "SF", 23, 7, "Franny and Zooey", "Little, Brown and Company", 1961],
+            [1, "Peter Pan", "SF", 23, 8, "Tender Is The Night", "Charles Scribner's Sons", 1934],
+            [1, "Peter Pan", "SF", 23, 9, "The Great Gatsby", "Charles Scribner's Sons", 1925],
+            [1, "Peter Pan", "SF", 23, 10, "This Side of Paradise", "Charles Scribner's Sons", 1920],
+            [1, "Peter Pan", "SF", 23, 11, "The Grass Harp", "Random House", 1951],
+            [1, "Peter Pan", "SF", 23, 12, "Other Voices, Other Rooms", "Random House", 1948],
+            [1, "Peter Pan", "SF", 23, 13, "The New York Trilogy", "Faber & Faber", 1987],
+            [1, "Peter Pan", "SF", 23, 14, "Pride and Prejudice", "Egerton", 1813],
+            [1, "Peter Pan", "SF", 23, 15, "Sense and Sensibility", "Egerton", 1811],
+            [1, "Peter Pan", "SF", 23, 16, "Emma", "Thomas Murray", 1815],
+            [1, "Peter Pan", "SF", 23, 17, "Wuthering Heights", "Thomas Newby", 1847],
+            [1, "Peter Pan", "SF", 23, 18, "On the Road", "Viking press", 1957],
+            [1, "Peter Pan", "SF", 23, 19, "Big Sur", "Farrar, Straus and Cudahy", 1962],
+            [1, "Peter Pan", "SF", 23, 20, "Naked Lunch", "Grove Press", 1959],
+            [2, "Holden Caulfield", "CS", 25, 1, "To Kill A Mockingbird", "Lippincott", 1960],
+            [2, "Holden Caulfield", "CS", 25, 2, "Breakfast At Tiffany's", "Random House", 1958],
+            [2, "Holden Caulfield", "CS", 25, 3, "The Catcher In The Rye", "Little, Brown and Company", 1951],
+            [2, "Holden Caulfield", "CS", 25, 4, "Lord Of The Rings - The Fellowship Of The Ring", "Allen & Unwin", 1954],
+            [2, "Holden Caulfield", "CS", 25, 5, "Lord Of The Rings - The Two Towers", "Allen & Unwin", 1954],
+            [2, "Holden Caulfield", "CS", 25, 6, "Lord Of The Rings - The Return Of The King", "Allen & Unwin", 1955],
+            [2, "Holden Caulfield", "CS", 25, 7, "Franny and Zooey", "Little, Brown and Company", 1961],
+            [2, "Holden Caulfield", "CS", 25, 8, "Tender Is The Night", "Charles Scribner's Sons", 1934],
+            [2, "Holden Caulfield", "CS", 25, 9, "The Great Gatsby", "Charles Scribner's Sons", 1925],
+            [2, "Holden Caulfield", "CS", 25, 10, "This Side of Paradise", "Charles Scribner's Sons", 1920],
+            [2, "Holden Caulfield", "CS", 25, 11, "The Grass Harp", "Random House", 1951],
+            [2, "Holden Caulfield", "CS", 25, 12, "Other Voices, Other Rooms", "Random House", 1948],
+            [2, "Holden Caulfield", "CS", 25, 13, "The New York Trilogy", "Faber & Faber", 1987],
+            [2, "Holden Caulfield", "CS", 25, 14, "Pride and Prejudice", "Egerton", 1813],
+            [2, "Holden Caulfield", "CS", 25, 15, "Sense and Sensibility", "Egerton", 1811],
+            [2, "Holden Caulfield", "CS", 25, 16, "Emma", "Thomas Murray", 1815],
+            [2, "Holden Caulfield", "CS", 25, 17, "Wuthering Heights", "Thomas Newby", 1847],
+            [2, "Holden Caulfield", "CS", 25, 18, "On the Road", "Viking press", 1957],
+            [2, "Holden Caulfield", "CS", 25, 19, "Big Sur", "Farrar, Straus and Cudahy", 1962],
+            [2, "Holden Caulfield", "CS", 25, 20, "Naked Lunch", "Grove Press", 1959],
+            [3, "Holly Golightly", "CCS", 21, 1, "To Kill A Mockingbird", "Lippincott", 1960],
+            [3, "Holly Golightly", "CCS", 21, 2, "Breakfast At Tiffany's", "Random House", 1958],
+            [3, "Holly Golightly", "CCS", 21, 3, "The Catcher In The Rye", "Little, Brown and Company", 1951],
+            [3, "Holly Golightly", "CCS", 21, 4, "Lord Of The Rings - The Fellowship Of The Ring", "Allen & Unwin", 1954],
+            [3, "Holly Golightly", "CCS", 21, 5, "Lord Of The Rings - The Two Towers", "Allen & Unwin", 1954],
+            [3, "Holly Golightly", "CCS", 21, 6, "Lord Of The Rings - The Return Of The King", "Allen & Unwin", 1955],
+            [3, "Holly Golightly", "CCS", 21, 7, "Franny and Zooey", "Little, Brown and Company", 1961],
+            [3, "Holly Golightly", "CCS", 21, 8, "Tender Is The Night", "Charles Scribner's Sons", 1934],
+            [3, "Holly Golightly", "CCS", 21, 9, "The Great Gatsby", "Charles Scribner's Sons", 1925],
+            [3, "Holly Golightly", "CCS", 21, 10, "This Side of Paradise", "Charles Scribner's Sons", 1920],
+            [3, "Holly Golightly", "CCS", 21, 11, "The Grass Harp", "Random House", 1951],
+            [3, "Holly Golightly", "CCS", 21, 12, "Other Voices, Other Rooms", "Random House", 1948],
+            [3, "Holly Golightly", "CCS", 21, 13, "The New York Trilogy", "Faber & Faber", 1987],
+            [3, "Holly Golightly", "CCS", 21, 14, "Pride and Prejudice", "Egerton", 1813],
+            [3, "Holly Golightly", "CCS", 21, 15, "Sense and Sensibility", "Egerton", 1811],
+            [3, "Holly Golightly", "CCS", 21, 16, "Emma", "Thomas Murray", 1815],
+            [3, "Holly Golightly", "CCS", 21, 17, "Wuthering Heights", "Thomas Newby", 1847],
+            [3, "Holly Golightly", "CCS", 21, 18, "On the Road", "Viking press", 1957],
+            [3, "Holly Golightly", "CCS", 21, 19, "Big Sur", "Farrar, Straus and Cudahy", 1962],
+            [3, "Holly Golightly", "CCS", 21, 20, "Naked Lunch", "Grove Press", 1959],
+            [4, "Paul Varjak", "CS", 31, 1, "To Kill A Mockingbird", "Lippincott", 1960],
+            [4, "Paul Varjak", "CS", 31, 2, "Breakfast At Tiffany's", "Random House", 1958],
+            [4, "Paul Varjak", "CS", 31, 3, "The Catcher In The Rye", "Little, Brown and Company", 1951],
+            [4, "Paul Varjak", "CS", 31, 4, "Lord Of The Rings - The Fellowship Of The Ring", "Allen & Unwin", 1954],
+            [4, "Paul Varjak", "CS", 31, 5, "Lord Of The Rings - The Two Towers", "Allen & Unwin", 1954],
+            [4, "Paul Varjak", "CS", 31, 6, "Lord Of The Rings - The Return Of The King", "Allen & Unwin", 1955],
+            [4, "Paul Varjak", "CS", 31, 7, "Franny and Zooey", "Little, Brown and Company", 1961],
+            [4, "Paul Varjak", "CS", 31, 8, "Tender Is The Night", "Charles Scribner's Sons", 1934],
+            [4, "Paul Varjak", "CS", 31, 9, "The Great Gatsby", "Charles Scribner's Sons", 1925],
+            [4, "Paul Varjak", "CS", 31, 10, "This Side of Paradise", "Charles Scribner's Sons", 1920],
+            [4, "Paul Varjak", "CS", 31, 11, "The Grass Harp", "Random House", 1951],
+            [4, "Paul Varjak", "CS", 31, 12, "Other Voices, Other Rooms", "Random House", 1948],
+            [4, "Paul Varjak", "CS", 31, 13, "The New York Trilogy", "Faber & Faber", 1987],
+            [4, "Paul Varjak", "CS", 31, 14, "Pride and Prejudice", "Egerton", 1813],
+            [4, "Paul Varjak", "CS", 31, 15, "Sense and Sensibility", "Egerton", 1811],
+            [4, "Paul Varjak", "CS", 31, 16, "Emma", "Thomas Murray", 1815],
+            [4, "Paul Varjak", "CS", 31, 17, "Wuthering Heights", "Thomas Newby", 1847],
+            [4, "Paul Varjak", "CS", 31, 18, "On the Road", "Viking press", 1957],
+            [4, "Paul Varjak", "CS", 31, 19, "Big Sur", "Farrar, Straus and Cudahy", 1962],
+            [4, "Paul Varjak", "CS", 31, 20, "Naked Lunch", "Grove Press", 1959],
+            [5, "Sally Tomato", "CR", 55, 1, "To Kill A Mockingbird", "Lippincott", 1960],
+            [5, "Sally Tomato", "CR", 55, 2, "Breakfast At Tiffany's", "Random House", 1958],
+            [5, "Sally Tomato", "CR", 55, 3, "The Catcher In The Rye", "Little, Brown and Company", 1951],
+            [5, "Sally Tomato", "CR", 55, 4, "Lord Of The Rings - The Fellowship Of The Ring", "Allen & Unwin", 1954],
+            [5, "Sally Tomato", "CR", 55, 5, "Lord Of The Rings - The Two Towers", "Allen & Unwin", 1954],
+            [5, "Sally Tomato", "CR", 55, 6, "Lord Of The Rings - The Return Of The King", "Allen & Unwin", 1955],
+            [5, "Sally Tomato", "CR", 55, 7, "Franny and Zooey", "Little, Brown and Company", 1961],
+            [5, "Sally Tomato", "CR", 55, 8, "Tender Is The Night", "Charles Scribner's Sons", 1934],
+            [5, "Sally Tomato", "CR", 55, 9, "The Great Gatsby", "Charles Scribner's Sons", 1925],
+            [5, "Sally Tomato", "CR", 55, 10, "This Side of Paradise", "Charles Scribner's Sons", 1920],
+            [5, "Sally Tomato", "CR", 55, 11, "The Grass Harp", "Random House", 1951],
+            [5, "Sally Tomato", "CR", 55, 12, "Other Voices, Other Rooms", "Random House", 1948],
+            [5, "Sally Tomato", "CR", 55, 13, "The New York Trilogy", "Faber & Faber", 1987],
+            [5, "Sally Tomato", "CR", 55, 14, "Pride and Prejudice", "Egerton", 1813],
+            [5, "Sally Tomato", "CR", 55, 15, "Sense and Sensibility", "Egerton", 1811],
+            [5, "Sally Tomato", "CR", 55, 16, "Emma", "Thomas Murray", 1815],
+            [5, "Sally Tomato", "CR", 55, 17, "Wuthering Heights", "Thomas Newby", 1847],
+            [5, "Sally Tomato", "CR", 55, 18, "On the Road", "Viking press", 1957],
+            [5, "Sally Tomato", "CR", 55, 19, "Big Sur", "Farrar, Straus and Cudahy", 1962],
+            [5, "Sally Tomato", "CR", 55, 20, "Naked Lunch", "Grove Press", 1959],
+            [6, "Bilbo Baggins", "SF", 56, 1, "To Kill A Mockingbird", "Lippincott", 1960],
+            [6, "Bilbo Baggins", "SF", 56, 2, "Breakfast At Tiffany's", "Random House", 1958],
+            [6, "Bilbo Baggins", "SF", 56, 3, "The Catcher In The Rye", "Little, Brown and Company", 1951],
+            [6, "Bilbo Baggins", "SF", 56, 4, "Lord Of The Rings - The Fellowship Of The Ring", "Allen & Unwin", 1954],
+            [6, "Bilbo Baggins", "SF", 56, 5, "Lord Of The Rings - The Two Towers", "Allen & Unwin", 1954],
+            [6, "Bilbo Baggins", "SF", 56, 6, "Lord Of The Rings - The Return Of The King", "Allen & Unwin", 1955],
+            [6, "Bilbo Baggins", "SF", 56, 7, "Franny and Zooey", "Little, Brown and Company", 1961],
+            [6, "Bilbo Baggins", "SF", 56, 8, "Tender Is The Night", "Charles Scribner's Sons", 1934],
+            [6, "Bilbo Baggins", "SF", 56, 9, "The Great Gatsby", "Charles Scribner's Sons", 1925],
+            [6, "Bilbo Baggins", "SF", 56, 10, "This Side of Paradise", "Charles Scribner's Sons", 1920],
+            [6, "Bilbo Baggins", "SF", 56, 11, "The Grass Harp", "Random House", 1951],
+            [6, "Bilbo Baggins", "SF", 56, 12, "Other Voices, Other Rooms", "Random House", 1948],
+            [6, "Bilbo Baggins", "SF", 56, 13, "The New York Trilogy", "Faber & Faber", 1987],
+            [6, "Bilbo Baggins", "SF", 56, 14, "Pride and Prejudice", "Egerton", 1813],
+            [6, "Bilbo Baggins", "SF", 56, 15, "Sense and Sensibility", "Egerton", 1811],
+            [6, "Bilbo Baggins", "SF", 56, 16, "Emma", "Thomas Murray", 1815],
+            [6, "Bilbo Baggins", "SF", 56, 17, "Wuthering Heights", "Thomas Newby", 1847],
+            [6, "Bilbo Baggins", "SF", 56, 18, "On the Road", "Viking press", 1957],
+            [6, "Bilbo Baggins", "SF", 56, 19, "Big Sur", "Farrar, Straus and Cudahy", 1962],
+            [6, "Bilbo Baggins", "SF", 56, 20, "Naked Lunch", "Grove Press", 1959],
+            [7, "Frodo Baggins", "CCS", 23, 1, "To Kill A Mockingbird", "Lippincott", 1960],
+            [7, "Frodo Baggins", "CCS", 23, 2, "Breakfast At Tiffany's", "Random House", 1958],
+            [7, "Frodo Baggins", "CCS", 23, 3, "The Catcher In The Rye", "Little, Brown and Company", 1951],
+            [7, "Frodo Baggins", "CCS", 23, 4, "Lord Of The Rings - The Fellowship Of The Ring", "Allen & Unwin", 1954],
+            [7, "Frodo Baggins", "CCS", 23, 5, "Lord Of The Rings - The Two Towers", "Allen & Unwin", 1954],
+            [7, "Frodo Baggins", "CCS", 23, 6, "Lord Of The Rings - The Return Of The King", "Allen & Unwin", 1955],
+            [7, "Frodo Baggins", "CCS", 23, 7, "Franny and Zooey", "Little, Brown and Company", 1961],
+            [7, "Frodo Baggins", "CCS", 23, 8, "Tender Is The Night", "Charles Scribner's Sons", 1934],
+            [7, "Frodo Baggins", "CCS", 23, 9, "The Great Gatsby", "Charles Scribner's Sons", 1925],
+            [7, "Frodo Baggins", "CCS", 23, 10, "This Side of Paradise", "Charles Scribner's Sons", 1920],
+            [7, "Frodo Baggins", "CCS", 23, 11, "The Grass Harp", "Random House", 1951],
+            [7, "Frodo Baggins", "CCS", 23, 12, "Other Voices, Other Rooms", "Random House", 1948],
+            [7, "Frodo Baggins", "CCS", 23, 13, "The New York Trilogy", "Faber & Faber", 1987],
+            [7, "Frodo Baggins", "CCS", 23, 14, "Pride and Prejudice", "Egerton", 1813],
+            [7, "Frodo Baggins", "CCS", 23, 15, "Sense and Sensibility", "Egerton", 1811],
+            [7, "Frodo Baggins", "CCS", 23, 16, "Emma", "Thomas Murray", 1815],
+            [7, "Frodo Baggins", "CCS", 23, 17, "Wuthering Heights", "Thomas Newby", 1847],
+            [7, "Frodo Baggins", "CCS", 23, 18, "On the Road", "Viking press", 1957],
+            [7, "Frodo Baggins", "CCS", 23, 19, "Big Sur", "Farrar, Straus and Cudahy", 1962],
+            [7, "Frodo Baggins", "CCS", 23, 20, "Naked Lunch", "Grove Press", 1959],
+            [8, "Peter Sellers", "DD", 35, 1, "To Kill A Mockingbird", "Lippincott", 1960],
+            [8, "Peter Sellers", "DD", 35, 2, "Breakfast At Tiffany's", "Random House", 1958],
+            [8, "Peter Sellers", "DD", 35, 3, "The Catcher In The Rye", "Little, Brown and Company", 1951],
+            [8, "Peter Sellers", "DD", 35, 4, "Lord Of The Rings - The Fellowship Of The Ring", "Allen & Unwin", 1954],
+            [8, "Peter Sellers", "DD", 35, 5, "Lord Of The Rings - The Two Towers", "Allen & Unwin", 1954],
+            [8, "Peter Sellers", "DD", 35, 6, "Lord Of The Rings - The Return Of The King", "Allen & Unwin", 1955],
+            [8, "Peter Sellers", "DD", 35, 7, "Franny and Zooey", "Little, Brown and Company", 1961],
+            [8, "Peter Sellers", "DD", 35, 8, "Tender Is The Night", "Charles Scribner's Sons", 1934],
+            [8, "Peter Sellers", "DD", 35, 9, "The Great Gatsby", "Charles Scribner's Sons", 1925],
+            [8, "Peter Sellers", "DD", 35, 10, "This Side of Paradise", "Charles Scribner's Sons", 1920],
+            [8, "Peter Sellers", "DD", 35, 11, "The Grass Harp", "Random House", 1951],
+            [8, "Peter Sellers", "DD", 35, 12, "Other Voices, Other Rooms", "Random House", 1948],
+            [8, "Peter Sellers", "DD", 35, 13, "The New York Trilogy", "Faber & Faber", 1987],
+            [8, "Peter Sellers", "DD", 35, 14, "Pride and Prejudice", "Egerton", 1813],
+            [8, "Peter Sellers", "DD", 35, 15, "Sense and Sensibility", "Egerton", 1811],
+            [8, "Peter Sellers", "DD", 35, 16, "Emma", "Thomas Murray", 1815],
+            [8, "Peter Sellers", "DD", 35, 17, "Wuthering Heights", "Thomas Newby", 1847],
+            [8, "Peter Sellers", "DD", 35, 18, "On the Road", "Viking press", 1957],
+            [8, "Peter Sellers", "DD", 35, 19, "Big Sur", "Farrar, Straus and Cudahy", 1962],
+            [8, "Peter Sellers", "DD", 35, 20, "Naked Lunch", "Grove Press", 1959],
+            [9, "Emma Woodhouse", "HW", 22, 1, "To Kill A Mockingbird", "Lippincott", 1960],
+            [9, "Emma Woodhouse", "HW", 22, 2, "Breakfast At Tiffany's", "Random House", 1958],
+            [9, "Emma Woodhouse", "HW", 22, 3, "The Catcher In The Rye", "Little, Brown and Company", 1951],
+            [9, "Emma Woodhouse", "HW", 22, 4, "Lord Of The Rings - The Fellowship Of The Ring", "Allen & Unwin", 1954],
+            [9, "Emma Woodhouse", "HW", 22, 5, "Lord Of The Rings - The Two Towers", "Allen & Unwin", 1954],
+            [9, "Emma Woodhouse", "HW", 22, 6, "Lord Of The Rings - The Return Of The King", "Allen & Unwin", 1955],
+            [9, "Emma Woodhouse", "HW", 22, 7, "Franny and Zooey", "Little, Brown and Company", 1961],
+            [9, "Emma Woodhouse", "HW", 22, 8, "Tender Is The Night", "Charles Scribner's Sons", 1934],
+            [9, "Emma Woodhouse", "HW", 22, 9, "The Great Gatsby", "Charles Scribner's Sons", 1925],
+            [9, "Emma Woodhouse", "HW", 22, 10, "This Side of Paradise", "Charles Scribner's Sons", 1920],
+            [9, "Emma Woodhouse", "HW", 22, 11, "The Grass Harp", "Random House", 1951],
+            [9, "Emma Woodhouse", "HW", 22, 12, "Other Voices, Other Rooms", "Random House", 1948],
+            [9, "Emma Woodhouse", "HW", 22, 13, "The New York Trilogy", "Faber & Faber", 1987],
+            [9, "Emma Woodhouse", "HW", 22, 14, "Pride and Prejudice", "Egerton", 1813],
+            [9, "Emma Woodhouse", "HW", 22, 15, "Sense and Sensibility", "Egerton", 1811],
+            [9, "Emma Woodhouse", "HW", 22, 16, "Emma", "Thomas Murray", 1815],
+            [9, "Emma Woodhouse", "HW", 22, 17, "Wuthering Heights", "Thomas Newby", 1847],
+            [9, "Emma Woodhouse", "HW", 22, 18, "On the Road", "Viking press", 1957],
+            [9, "Emma Woodhouse", "HW", 22, 19, "Big Sur", "Farrar, Straus and Cudahy", 1962],
+            [9, "Emma Woodhouse", "HW", 22, 20, "Naked Lunch", "Grove Press", 1959],
+            [10, "Scout Finch", "PL", 18, 1, "To Kill A Mockingbird", "Lippincott", 1960],
+            [10, "Scout Finch", "PL", 18, 2, "Breakfast At Tiffany's", "Random House", 1958],
+            [10, "Scout Finch", "PL", 18, 3, "The Catcher In The Rye", "Little, Brown and Company", 1951],
+            [10, "Scout Finch", "PL", 18, 4, "Lord Of The Rings - The Fellowship Of The Ring", "Allen & Unwin", 1954],
+            [10, "Scout Finch", "PL", 18, 5, "Lord Of The Rings - The Two Towers", "Allen & Unwin", 1954],
+            [10, "Scout Finch", "PL", 18, 6, "Lord Of The Rings - The Return Of The King", "Allen & Unwin", 1955],
+            [10, "Scout Finch", "PL", 18, 7, "Franny and Zooey", "Little, Brown and Company", 1961],
+            [10, "Scout Finch", "PL", 18, 8, "Tender Is The Night", "Charles Scribner's Sons", 1934],
+            [10, "Scout Finch", "PL", 18, 9, "The Great Gatsby", "Charles Scribner's Sons", 1925],
+            [10, "Scout Finch", "PL", 18, 10, "This Side of Paradise", "Charles Scribner's Sons", 1920],
+            [10, "Scout Finch", "PL", 18, 11, "The Grass Harp", "Random House", 1951],
+            [10, "Scout Finch", "PL", 18, 12, "Other Voices, Other Rooms", "Random House", 1948],
+            [10, "Scout Finch", "PL", 18, 13, "The New York Trilogy", "Faber & Faber", 1987],
+            [10, "Scout Finch", "PL", 18, 14, "Pride and Prejudice", "Egerton", 1813],
+            [10, "Scout Finch", "PL", 18, 15, "Sense and Sensibility", "Egerton", 1811],
+            [10, "Scout Finch", "PL", 18, 16, "Emma", "Thomas Murray", 1815],
+            [10, "Scout Finch", "PL", 18, 17, "Wuthering Heights", "Thomas Newby", 1847],
+            [10, "Scout Finch", "PL", 18, 18, "On the Road", "Viking press", 1957],
+            [10, "Scout Finch", "PL", 18, 19, "Big Sur", "Farrar, Straus and Cudahy", 1962],
+            [10, "Scout Finch", "PL", 18, 20, "Naked Lunch", "Grove Press", 1959]
+        ]
+    },
+    "aufgabe1-4": {
+        "ordered": false,
+        "attributes": [
+            "DocId",
+            "Title",
+            "Publisher",
+            "Year"
+        ],
+        "equals": [
+            [2, "Breakfast At Tiffany's", "Random House", 1958],
+            [11, "The Grass Harp", "Random House", 1951]
+        ]
+    },
+    "aufgabe1-5": {
+        "ordered": false,
+        "attributes": [
+            "AName"
+        ],
+        "equals": [
+            ["Truman Capote"],
+            ["Paul Auster"]
+        ]
+    },
+    "aufgabe1-6": {
+        "ordered": false,
+        "attributes": [
+            "StName"
+        ],
+        "equals": [
+            ["Sally Tomato"],
+            ["Bilbo Baggins"],
+            ["Peter Sellers"]
+        ]
+    },
+    "aufgabe1-7": {
+        "ordered": false,
+        "attributes": [
+            "Name"
+        ],
+        "equals": [
+            ["Harper Lee"],
+            ["Truman Capote"],
+            ["J.D. Salinger"],
+            ["J.R.R. Tolkien"],
+            ["F. Scott Fitzgerald"],
+            ["Paul Auster"],
+            ["Jane Austen"],
+            ["Emily Bronte"],
+            ["Jack Kerouac"],
+            ["William S. Borroughs"]
+        ]
+    },
+    "aufgabe1-8": {
+        "ordered": false,
+        "attributes": [
+            "DocId",
+            "StId",
+            "Date",
+            "StName",
+            "Major",
+            "Age"
+        ],
+        "equals": [
+            [10, 2, "2017-03-17", "Holden Caulfield", "CS", 25],
+            [7, 4, "2018-04-22", "Paul Varjak", "CS", 31]
+        ]
+    },
+    "aufgabe1-9": {
+        "ordered": false,
+        "attributes": [
+            "Title"
+        ],
+        "equals": [
+            ["Breakfast At Tiffany's"],
+            ["The Grass Harp"],
+            ["Other Voices, Other Rooms"]
+        ]
+    },
+    "aufgabe1-10": {
+        "ordered": false,
+        "attributes": [
+            "Title"
+        ],
+        "equals": [
+            ["Breakfast At Tiffany's"],
+            ["Other Voices, Other Rooms"]
+        ]
+    },
+    "aufgabe1-11": {
+        "ordered": false,
+        "attributes": [
+            "StName"
+        ],
+        "equals": [
+            ["Scout Finch"]
+        ]
+    },
+    "aufgabe1-12": {
+        "ordered": false,
+        "attributes": [
+            "Title"
+        ],
+        "equals": [
+            ["Sense and Sensibility"]
+        ]
+    },
+    "aufgabe1-13": {
+        "ordered": false,
+        "attributes": [
+            "DocId",
+            "Title",
+            "Publisher",
+            "Year",
+            "Keyword"
+        ],
+        "equals": [
+            [1, "To Kill A Mockingbird", "Lippincott", 1960, "southern gothic"],
+            [1, "To Kill A Mockingbird", "Lippincott", 1960, "coming of age"],
+            [2, "Breakfast At Tiffany's", "Random House", 1958, "humorous fiction"],
+            [3, "The Catcher In The Rye", "Little, Brown and Company", 1951, "superficiality"],
+            [3, "The Catcher In The Rye", "Little, Brown and Company", 1951, "depression"],
+            [4, "Lord Of The Rings - The Fellowship Of The Ring", "Allen & Unwin", 1954, "fantasy"],
+            [4, "Lord Of The Rings - The Fellowship Of The Ring", "Allen & Unwin", 1954, "epic"],
+            [5, "Lord Of The Rings - The Two Towers", "Allen & Unwin", 1954, "fantasy"],
+            [5, "Lord Of The Rings - The Two Towers", "Allen & Unwin", 1954, "epic"],
+            [6, "Lord Of The Rings - The Return Of The King", "Allen & Unwin", 1955, "fantasy"],
+            [6, "Lord Of The Rings - The Return Of The King", "Allen & Unwin", 1955, "epic"],
+            [7, "Franny and Zooey", "Little, Brown and Company", 1961, "New York"],
+            [7, "Franny and Zooey", "Little, Brown and Company", 1961, "family story"],
+            [8, "Tender Is The Night", "Charles Scribner's Sons", 1934, "schizophrenia"],
+            [8, "Tender Is The Night", "Charles Scribner's Sons", 1934, "florence nightingale syndrome"],
+            [8, "Tender Is The Night", "Charles Scribner's Sons", 1934, "france"],
+            [9, "The Great Gatsby", "Charles Scribner's Sons", 1925, "jazz age"],
+            [9, "The Great Gatsby", "Charles Scribner's Sons", 1925, "New York"],
+            [10, "This Side of Paradise", "Charles Scribner's Sons", 1920, "jazz age"],
+            [11, "The Grass Harp", "Random House", 1951, "orphan"],
+            [11, "The Grass Harp", "Random House", 1951, "friendship"],
+            [12, "Other Voices, Other Rooms", "Random House", 1948, "southern gothic"],
+            [13, "The New York Trilogy", "Faber & Faber", 1987, "postmodern"],
+            [13, "The New York Trilogy", "Faber & Faber", 1987, "mystery fiction"],
+            [14, "Pride and Prejudice", "Egerton", 1813, "novel of manners"],
+            [15, "Sense and Sensibility", "Egerton", 1811, "epistolary form"],
+            [15, "Sense and Sensibility", "Egerton", 1811, "sisters"],
+            [16, "Emma", "Thomas Murray", 1815, "romance"],
+            [16, "Emma", "Thomas Murray", 1815, "family story"],
+            [17, "Wuthering Heights", "Thomas Newby", 1847, "romanticism"],
+            [17, "Wuthering Heights", "Thomas Newby", 1847, "gothic fiction"],
+            [18, "On the Road", "Viking press", 1957, "beat"],
+            [18, "On the Road", "Viking press", 1957, "counterculture"],
+            [19, "Big Sur", "Farrar, Straus and Cudahy", 1962, "beat"],
+            [20, "Naked Lunch", "Grove Press", 1959, "beat"],
+            [20, "Naked Lunch", "Grove Press", 1959, "postmodern"],
+            [20, "Naked Lunch", "Grove Press", 1959, "drugs"]
+        ]
+    },
+    "aufgabe1-14": {
+        "ordered": false,
+        "attributes": [
+            "StId",
+            "StName",
+            "Major",
+            "Age",
+            "DocId",
+            "Date"
+        ],
+        "equals": [
+            [1, "Peter Pan", "SF", 23, 1, "2021-08-24"],
+            [2, "Holden Caulfield", "CS", 25, 10, "2017-03-17"],
+            [4, "Paul Varjak", "CS", 31, 7, "2018-04-22"],
+            [5, "Sally Tomato", "CR", 55, 1, "2015-09-15"],
+            [6, "Bilbo Baggins", "SF", 56, 4, "2019-12-31"],
+            [10, "Scout Finch", "PL", 18, 1, "2020-01-21"],
+            [5, "Sally Tomato", "CR", 55, 2, "2010-04-12"]
+        ]
+    },
+    "aufgabe1-15": {
+        "ordered": false,
+        "attributes": [
+            "Title"
+        ],
+        "equals": [
+            ["Pride and Prejudice"],
+            ["Sense and Sensibility"],
+            ["Emma"]
+        ]
+    },
+    "aufgabe1-16": {
+        "ordered": false,
+        "attributes": [
+            "AName"
+        ],
+        "equals": [
+            ["Harper Lee"]
+        ]
+    },
+    "aufgabe1-17": {
+        "ordered": false,
+        "attributes": [
+            "Title"
+        ],
+        "equals": [
+            ["Lord Of The Rings - The Fellowship Of The Ring"],
+            ["Lord Of The Rings - The Two Towers"],
+            ["Lord Of The Rings - The Return Of The King"]
+        ]
+    },
+    "aufgabe2-1": {
+        "ordered": false,
+        "equals": [
+            [1],
+            [3],
+            [7],
+            [17]
+        ]
+    },
+    "aufgabe2-2": {
+        "ordered": false,
+        "equals": [
+            ["Rotkäppchen-Sekt"],
+            ["Orangen"],
+            ["Butter"]
+        ]
+    },
+    "aufgabe2-3": {
+        "ordered": false,
+        "equals": [
+            ["Jahn, E."]
+        ]
+    },
+    "aufgabe2-4": {
+        "ordered": false,
+        "equals": [
+            ["Aldi"],
+            ["Edeka"],
+            ["Netto"]
+        ]
+    },
+    "aufgabe3": {
+        "ordered": false,
+        "equals": [
+            [1],
+            [9]
+        ]
+    },
+    "aufgabe4": {
+        "ordered": false,
+        "attributes": [
+            "Name",
+            "Adresse"
+        ],
+        "equals": [
+            ["Aldi", "Hüttenholz"],
+            ["Netto", "Herderstr."]
+        ]
+    }
+}

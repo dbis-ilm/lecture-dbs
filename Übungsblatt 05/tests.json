@@ -1,0 +1,254 @@
+{
+    "task-1-1": {
+        "attributes": [
+            "Name",
+            "Tiefe"
+        ],
+        "equals": [
+            ["Bodensee", 252],
+            ["Gardasee", 346],
+            ["Vaenernsee", 100],
+            ["Baikalsee", 1620],
+            ["Genfer_See", 310]
+        ],
+        "ordered": false
+    },
+    "task-1-2": {
+        "attributes": [
+            "Erdteil",
+            "Name"
+        ],
+        "equals": [
+            ["Afrika", "Tanganjikasee"],
+            ["Afrika", "Victoriasee"],
+            ["Afrika", "Tanasee"],
+            ["Afrika", "Tschadsee"],
+            ["Afrika", "Eduardsee"],
+            ["Amerika", "Ontariosee"],
+            ["Amerika", "Titicacasee"],
+            ["Amerika", "Silbersee"],
+            ["Amerika", "Goldsee"],
+            ["Antarktika", "Schatzsee"],
+            ["Europa", "Bodensee"],
+            ["Europa", "Gardasee"],
+            ["Europa", "Vaenernsee"],
+            ["Europa", "Baikalsee"],
+            ["Europa", "Genfer_See"]
+        ],
+        "ordered": false
+    },
+    "task-1-3": {
+        "equals": [
+            ["Europa", 5],
+            ["Afrika", 5],
+            ["Amerika", 4],
+            ["Antarktika", 1]
+        ],
+        "ordered": false
+    },
+    "task-1-4": {
+        "attributes": [
+            "Erdteil"
+        ],
+        "equals": [
+            ["Europa"],
+            ["Afrika"]
+        ],
+        "ordered": false
+    },
+    "task-1-5": {
+        "equals": [
+            ["Bodensee", 2],
+            ["Gardasee", 1],
+            ["Vaenernsee", 1],
+            ["Tanganjikasee", 4],
+            ["Victoriasee", 3],
+            ["Baikalsee", 1],
+            ["Tanasee", 1],
+            ["Tschadsee", 3],
+            ["Eduardsee", 2],
+            ["Ontariosee", 2],
+            ["Titicacasee", 2],
+            ["Schatzsee", 1],
+            ["Silbersee", 1],
+            ["Goldsee", 1],
+            ["Genfer_See", 1]
+        ],
+        "ordered": false
+    },
+    "task-1-6": {
+        "equals": [
+            [1620]
+        ],
+        "ordered": false
+    },
+    "task-1-7": {
+        "attributes": [
+            "Name",
+            "Tiefe"
+        ],
+        "equals": [
+            ["Baikalsee", 1620]
+        ],
+        "ordered": false
+    },
+    "task-1-8": {
+        "attributes": [
+            "Name",
+            "Tiefe"
+        ],
+        "equals": [
+            ["Tanganjikasee", 1435],
+            ["Victoriasee", 85],
+            ["Tanasee", 72],
+            ["Tschadsee", 7],
+            ["Eduardsee", 117]
+        ],
+        "ordered": false
+    },
+    "task-1-9": {
+        "attributes": [
+            "Name"
+        ],
+        "equals": [
+            ["Tanganjikasee"]
+        ],
+        "ordered": false
+    },
+    "task-1-10": {
+        "attributes": [
+            "Land",
+            "Name",
+            "Tiefe"
+        ],
+        "equals": [
+            ["Niger", "Tschadsee", 7],
+            ["Nigeria", "Tschadsee", 7],
+            ["Tschad", "Tschadsee", 7],
+            ["Aethiopien", "Tanasee", 72],
+            ["Kenia", "Victoriasee", 85],
+            ["Uganda", "Eduardsee", 117],
+            ["Burundi", "Tanganjikasee", 1435],
+            ["Sambia", "Tanganjikasee", 1435],
+            ["Tansania", "Tanganjikasee", 1435],
+            ["Zaire", "Tanganjikasee", 1435]
+        ],
+        "ordered": true
+    },
+    "task-1-11": {
+        "equals": [
+            [455.4]
+        ],
+        "ordered": false
+    },
+    "task-2-1": {
+        "attributes": [
+            "Fluss",
+            "Muendung"
+        ],
+        "equals": [
+            ["Ilm", "Nordsee"]
+        ],
+        "ordered": false
+    },
+    "task-2-2": {
+        "attributes": [
+            "Fluss",
+            "Muendung"
+        ],
+        "equals": [
+            ["Ilm", "Saale"],
+            ["Saale", "Elbe"],
+            ["Elbe", "Nordsee"]
+        ],
+        "ordered": false
+    },
+    "task-2-3": {
+        "equals": [
+            [826]
+        ],
+        "ordered": false
+    },
+    "task-2-4": {
+        "equals": [
+            ["Elbe", 0],
+            ["Rhein", 0],
+            ["Weser", 0],
+            ["Saale", 1],
+            ["Main", 1],
+            ["Werra", 1],
+            ["Havel", 1],
+            ["Fulda", 1],
+            ["Schwarza", 2],
+            ["Spree", 2],
+            ["Ilm", 2],
+            ["Schorte", 3]
+        ],
+        "ordered": false
+    },
+    "task-3-1": {
+        "attributes": [
+            "B"
+        ],
+        "equals": [
+            ["c"]
+        ],
+        "ordered": false
+    },
+    "task-3-2": {
+        "attributes": [
+            "B",
+            "C"
+        ],
+        "equals": [
+            ["c", 2]
+        ],
+        "ordered": false
+    },
+    "task-3-3": {
+        "attributes": [
+            "A",
+            "B",
+            "C"
+        ],
+        "equals": [
+            [2, "c", 2]
+        ],
+        "ordered": false
+    },
+    "task-3-4": {
+        "equals": [
+            [1, "a", "c", 2],
+            [1, "a", "c", 4],
+            [2, "c", "c", 2],
+            [2, "c", "c", 4]
+        ],
+        "ordered": false
+    },
+    "task-3-5-1": {
+        "equals": [
+            ["c", 2],
+            ["b", 4],
+            ["c", 4]
+        ],
+        "ordered": false
+    },
+    "task-3-5-2": {
+        "equals": [
+            ["c", 2]
+        ],
+        "ordered": false
+    },
+    "task-3-6-1": {
+        "equals": [
+            ["b", 4]
+        ],
+        "ordered": false
+    },
+    "task-3-6-2": {
+        "equals": [
+            ["c", 4]
+        ],
+        "ordered": false
+    }
+}
