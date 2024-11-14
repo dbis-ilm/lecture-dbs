@@ -1,0 +1,1261 @@
+Name,Region,Hoehenlage,Saisonzeit,Land,Piste,Pistenlaenge,Pistenfarbe,Pistenkapazitaet,Unterkunft,UnterkunftTyp,UnterkunftBetten,Schule,SchulSchwerpunkt,SchulZielgruppe
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Snowy Peak Retreat,Ferienhaus,20,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Fir Tree Cabins,Ferienhaus,15,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Alpenrose Hotel,Hotel,200,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Edelweiss Lodge,Hotel,150,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Glacier Hotel,Hotel,130,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Alpenglow Lodge,Hotel,180,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Edelweiss Lodge,Hotel,150,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Summit View Hotel,Hotel,80,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Alpenglow Lodge,Hotel,180,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Snowline Inn,Gasthaus,25,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Alpine Dreams Hotel,Hotel,140,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Snowy Peak Retreat,Ferienhaus,20,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Glacier Hotel,Hotel,130,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Snowfall Hotel,Hotel,125,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Trailhead Lodge,Gasthaus,20,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Summit View Hotel,Hotel,80,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Edelweiss Lodge,Hotel,150,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Alpenglow Lodge,Hotel,180,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Fir Tree Cabins,Ferienhaus,15,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Alpenrose Hotel,Hotel,200,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Snowline Inn,Gasthaus,25,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Snowy Peak Retreat,Ferienhaus,20,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Trailhead Lodge,Gasthaus,20,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Glacier Hotel,Hotel,130,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Alpine Dreams Hotel,Hotel,140,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Alpenglow Lodge,Hotel,180,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Summit View Hotel,Hotel,80,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Edelweiss Lodge,Hotel,150,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Fir Tree Cabins,Ferienhaus,15,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Glacier Hotel,Hotel,130,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Snowfall Hotel,Hotel,125,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Alpenrose Hotel,Hotel,200,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Snowline Inn,Gasthaus,25,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Edelweiss Lodge,Hotel,150,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Alpenglow Lodge,Hotel,180,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Trailhead Lodge,Gasthaus,20,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Glacier Hotel,Hotel,130,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Alpine Dreams Hotel,Hotel,140,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Alpenrose Hotel,Hotel,200,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Snowy Peak Retreat,Ferienhaus,20,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Glacier Hotel,Hotel,130,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Summit View Hotel,Hotel,80,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Snowline Inn,Gasthaus,25,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Trailhead Lodge,Gasthaus,20,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Alpenglow Lodge,Hotel,180,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Edelweiss Lodge,Hotel,150,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Glacier Hotel,Hotel,130,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Snowfall Hotel,Hotel,125,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Fir Tree Cabins,Ferienhaus,15,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Alpenrose Hotel,Hotel,200,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Snowline Inn,Gasthaus,25,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Alpine Dreams Hotel,Hotel,140,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Summit View Hotel,Hotel,80,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Alpenglow Lodge,Hotel,180,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Glacier Hotel,Hotel,130,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Edelweiss Lodge,Hotel,150,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Fir Tree Cabins,Ferienhaus,15,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Summit View Hotel,Hotel,80,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Snowline Inn,Gasthaus,25,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Alpenrose Hotel,Hotel,200,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Glacier Hotel,Hotel,130,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Snowy Peak Retreat,Ferienhaus,20,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Snowline Inn,Gasthaus,25,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Trailhead Lodge,Gasthaus,20,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Alpenrose Hotel,Hotel,200,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Edelweiss Lodge,Hotel,150,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Edelweiss Lodge,Hotel,150,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Edelweiss Lodge,Hotel,150,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Alpenrose Hotel,Hotel,200,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Edelweiss Lodge,Hotel,150,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Alpenrose Hotel,Hotel,200,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Edelweiss Lodge,Hotel,150,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Alpenrose Hotel,Hotel,200,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Edelweiss Lodge,Hotel,150,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Alpenrose Hotel,Hotel,200,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Edelweiss Lodge,Hotel,150,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Alpenrose Hotel,Hotel,200,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Edelweiss Lodge,Hotel,150,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Edelweiss Lodge,Hotel,150,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Edelweiss Lodge,Hotel,150,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Edelweiss Lodge,Hotel,150,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Edelweiss Lodge,Hotel,150,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Edelweiss Lodge,Hotel,150,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Edelweiss Lodge,Hotel,150,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Mountain View Cabins,Chalet,30,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Ski View Inn,Hotel,150,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Kaiserblick,Gasthaus,25,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Snow Haven Inn,Gasthaus,20,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Refuge,Gasthaus,15,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Eagle Nest Inn,Gasthaus,30,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Snow Haven Inn,Gasthaus,20,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Kiwi Snow Inn,Gasthaus,15,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Eagle Nest Inn,Gasthaus,30,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Glacier Lodge,Hotel,150,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,La Baita,Gasthaus,20,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Mountain View Cabins,Chalet,30,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Refuge,Gasthaus,15,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Shirokuma Inn,Gasthaus,18,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Sundance Inn,Hotel,95,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Kiwi Snow Inn,Gasthaus,15,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Snow Haven Inn,Gasthaus,20,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Eagle Nest Inn,Gasthaus,30,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Ski View Inn,Hotel,150,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Kaiserblick,Gasthaus,25,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Glacier Lodge,Hotel,150,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Mountain View Cabins,Chalet,30,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Sundance Inn,Hotel,95,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Refuge,Gasthaus,15,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,La Baita,Gasthaus,20,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Eagle Nest Inn,Gasthaus,30,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Kiwi Snow Inn,Gasthaus,15,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Snow Haven Inn,Gasthaus,20,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Ski View Inn,Hotel,150,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Refuge,Gasthaus,15,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Shirokuma Inn,Gasthaus,18,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Kaiserblick,Gasthaus,25,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Glacier Lodge,Hotel,150,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Snow Haven Inn,Gasthaus,20,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Eagle Nest Inn,Gasthaus,30,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Sundance Inn,Hotel,95,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Refuge,Gasthaus,15,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,La Baita,Gasthaus,20,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Kaiserblick,Gasthaus,25,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Mountain View Cabins,Chalet,30,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Refuge,Gasthaus,15,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Kiwi Snow Inn,Gasthaus,15,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Glacier Lodge,Hotel,150,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Sundance Inn,Hotel,95,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Eagle Nest Inn,Gasthaus,30,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Snow Haven Inn,Gasthaus,20,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Refuge,Gasthaus,15,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Shirokuma Inn,Gasthaus,18,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Ski View Inn,Hotel,150,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Kaiserblick,Gasthaus,25,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Glacier Lodge,Hotel,150,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,La Baita,Gasthaus,20,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Kiwi Snow Inn,Gasthaus,15,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Eagle Nest Inn,Gasthaus,30,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Refuge,Gasthaus,15,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Snow Haven Inn,Gasthaus,20,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Ski View Inn,Hotel,150,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Kiwi Snow Inn,Gasthaus,15,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Glacier Lodge,Hotel,150,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Kaiserblick,Gasthaus,25,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Le Refuge,Gasthaus,15,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Mountain View Cabins,Chalet,30,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Glacier Lodge,Hotel,150,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Sundance Inn,Hotel,95,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Kaiserblick,Gasthaus,25,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Snow Haven Inn,Gasthaus,20,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Snow Haven Inn,Gasthaus,20,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Snow Haven Inn,Gasthaus,20,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Kaiserblick,Gasthaus,25,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Snow Haven Inn,Gasthaus,20,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Kaiserblick,Gasthaus,25,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Snow Haven Inn,Gasthaus,20,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Kaiserblick,Gasthaus,25,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Snow Haven Inn,Gasthaus,20,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Kaiserblick,Gasthaus,25,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Snow Haven Inn,Gasthaus,20,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Kaiserblick,Gasthaus,25,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Snow Haven Inn,Gasthaus,20,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Snow Haven Inn,Gasthaus,20,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Snow Haven Inn,Gasthaus,20,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Snow Haven Inn,Gasthaus,20,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Snow Haven Inn,Gasthaus,20,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Snow Haven Inn,Gasthaus,20,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Snow Haven Inn,Gasthaus,20,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Whistler Lodge,Hotel,200,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Mt. Hood Chalet,Chalet,25,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Bergblick Chalet,Chalet,40,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Zermatt Chalet,Chalet,30,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Alpine Ridge Chalet,Chalet,30,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Snowmass Chalet,Chalet,50,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Zermatt Chalet,Chalet,30,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Alpine Chalets,Chalet,20,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Snowmass Chalet,Chalet,50,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Rocky Retreat,Ferienwohnung,40,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Cortina Chalet,Chalet,45,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Whistler Lodge,Hotel,200,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Alpine Ridge Chalet,Chalet,30,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Mount Yotei Chalet,Chalet,25,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Jupiter Chalet,Chalet,35,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Alpine Chalets,Chalet,20,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Zermatt Chalet,Chalet,30,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Snowmass Chalet,Chalet,50,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Mt. Hood Chalet,Chalet,25,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Bergblick Chalet,Chalet,40,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Rocky Retreat,Ferienwohnung,40,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Whistler Lodge,Hotel,200,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Jupiter Chalet,Chalet,35,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Alpine Ridge Chalet,Chalet,30,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Cortina Chalet,Chalet,45,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Snowmass Chalet,Chalet,50,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Alpine Chalets,Chalet,20,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Zermatt Chalet,Chalet,30,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Mt. Hood Chalet,Chalet,25,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Alpine Ridge Chalet,Chalet,30,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Mount Yotei Chalet,Chalet,25,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Bergblick Chalet,Chalet,40,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Rocky Retreat,Ferienwohnung,40,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Zermatt Chalet,Chalet,30,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Snowmass Chalet,Chalet,50,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Jupiter Chalet,Chalet,35,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Alpine Ridge Chalet,Chalet,30,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Cortina Chalet,Chalet,45,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Bergblick Chalet,Chalet,40,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Whistler Lodge,Hotel,200,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Alpine Ridge Chalet,Chalet,30,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Alpine Chalets,Chalet,20,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Rocky Retreat,Ferienwohnung,40,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Jupiter Chalet,Chalet,35,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Snowmass Chalet,Chalet,50,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Zermatt Chalet,Chalet,30,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Alpine Ridge Chalet,Chalet,30,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Mount Yotei Chalet,Chalet,25,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Mt. Hood Chalet,Chalet,25,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Bergblick Chalet,Chalet,40,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Rocky Retreat,Ferienwohnung,40,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Cortina Chalet,Chalet,45,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Alpine Chalets,Chalet,20,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Snowmass Chalet,Chalet,50,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Alpine Ridge Chalet,Chalet,30,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Zermatt Chalet,Chalet,30,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Mt. Hood Chalet,Chalet,25,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Alpine Chalets,Chalet,20,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Rocky Retreat,Ferienwohnung,40,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Bergblick Chalet,Chalet,40,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Alpine Ridge Chalet,Chalet,30,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Whistler Lodge,Hotel,200,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Rocky Retreat,Ferienwohnung,40,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Jupiter Chalet,Chalet,35,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Bergblick Chalet,Chalet,40,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Zermatt Chalet,Chalet,30,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Zermatt Chalet,Chalet,30,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Zermatt Chalet,Chalet,30,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Bergblick Chalet,Chalet,40,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Zermatt Chalet,Chalet,30,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Bergblick Chalet,Chalet,40,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Zermatt Chalet,Chalet,30,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Bergblick Chalet,Chalet,40,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Zermatt Chalet,Chalet,30,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Bergblick Chalet,Chalet,40,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Zermatt Chalet,Chalet,30,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Bergblick Chalet,Chalet,40,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Zermatt Chalet,Chalet,30,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Zermatt Chalet,Chalet,30,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Zermatt Chalet,Chalet,30,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Zermatt Chalet,Chalet,30,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Zermatt Chalet,Chalet,30,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Zermatt Chalet,Chalet,30,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Zermatt Chalet,Chalet,30,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Evergreen Escape,Ferienwohnung,50,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Cascade Lodge,Ferienwohnung,40,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Zillertal Ferienhaus,Ferienwohnung,70,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Savoie Apartments,Ferienwohnung,45,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Rocky Ridge Retreat,Ferienwohnung,60,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Swiss Alp Lodge,Ferienwohnung,55,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Ruapehu Retreat,Ferienwohnung,30,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Rocky Ridge Retreat,Ferienwohnung,60,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Banff Mountain Chalet,Chalet,60,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Mountain Vista Lodge,Ferienwohnung,50,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Evergreen Escape,Ferienwohnung,50,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Savoie Apartments,Ferienwohnung,45,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Sapporo Ski Apartments,Ferienwohnung,35,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Alpine Getaway,Ferienwohnung,45,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Ruapehu Retreat,Ferienwohnung,30,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Swiss Alp Lodge,Ferienwohnung,55,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Rocky Ridge Retreat,Ferienwohnung,60,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Cascade Lodge,Ferienwohnung,40,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Zillertal Ferienhaus,Ferienwohnung,70,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Banff Mountain Chalet,Chalet,60,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Evergreen Escape,Ferienwohnung,50,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Alpine Getaway,Ferienwohnung,45,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Savoie Apartments,Ferienwohnung,45,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Mountain Vista Lodge,Ferienwohnung,50,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Rocky Ridge Retreat,Ferienwohnung,60,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Ruapehu Retreat,Ferienwohnung,30,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Swiss Alp Lodge,Ferienwohnung,55,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Cascade Lodge,Ferienwohnung,40,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Savoie Apartments,Ferienwohnung,45,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Sapporo Ski Apartments,Ferienwohnung,35,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Zillertal Ferienhaus,Ferienwohnung,70,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Banff Mountain Chalet,Chalet,60,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Rocky Ridge Retreat,Ferienwohnung,60,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Alpine Getaway,Ferienwohnung,45,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Savoie Apartments,Ferienwohnung,45,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Mountain Vista Lodge,Ferienwohnung,50,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Zillertal Ferienhaus,Ferienwohnung,70,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Evergreen Escape,Ferienwohnung,50,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Savoie Apartments,Ferienwohnung,45,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Ruapehu Retreat,Ferienwohnung,30,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Banff Mountain Chalet,Chalet,60,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Alpine Getaway,Ferienwohnung,45,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Rocky Ridge Retreat,Ferienwohnung,60,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Swiss Alp Lodge,Ferienwohnung,55,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Savoie Apartments,Ferienwohnung,45,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Sapporo Ski Apartments,Ferienwohnung,35,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Cascade Lodge,Ferienwohnung,40,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Zillertal Ferienhaus,Ferienwohnung,70,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Banff Mountain Chalet,Chalet,60,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Mountain Vista Lodge,Ferienwohnung,50,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Ruapehu Retreat,Ferienwohnung,30,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Rocky Ridge Retreat,Ferienwohnung,60,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Savoie Apartments,Ferienwohnung,45,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Swiss Alp Lodge,Ferienwohnung,55,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Cascade Lodge,Ferienwohnung,40,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Ruapehu Retreat,Ferienwohnung,30,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Banff Mountain Chalet,Chalet,60,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Zillertal Ferienhaus,Ferienwohnung,70,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Savoie Apartments,Ferienwohnung,45,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Evergreen Escape,Ferienwohnung,50,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Banff Mountain Chalet,Chalet,60,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Alpine Getaway,Ferienwohnung,45,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Zillertal Ferienhaus,Ferienwohnung,70,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Swiss Alp Lodge,Ferienwohnung,55,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Swiss Alp Lodge,Ferienwohnung,55,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Zillertal Ferienhaus,Ferienwohnung,70,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Swiss Alp Lodge,Ferienwohnung,55,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Zillertal Ferienhaus,Ferienwohnung,70,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Zillertal Ferienhaus,Ferienwohnung,70,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Swiss Alp Lodge,Ferienwohnung,55,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Zillertal Ferienhaus,Ferienwohnung,70,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Swiss Alp Lodge,Ferienwohnung,55,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Zillertal Ferienhaus,Ferienwohnung,70,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Swiss Alp Lodge,Ferienwohnung,55,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Swiss Alp Lodge,Ferienwohnung,55,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Swiss Alp Lodge,Ferienwohnung,55,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Swiss Alp Lodge,Ferienwohnung,55,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Swiss Alp Lodge,Ferienwohnung,55,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Pine Ridge Inn,Hotel,80,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Timberline Hotel,Hotel,130,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Tirolerhof,Hotel,150,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Matterhorn Hotel,Hotel,100,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Mont Blanc Resort,Hotel,170,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Aspen Grove Hotel,Hotel,210,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Matterhorn Hotel,Hotel,100,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Volcano View Lodge,Hotel,90,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Aspen Grove Hotel,Hotel,210,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Lakeview Lodge,Hotel,120,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Dolomiti Palace,Hotel,160,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Pine Ridge Inn,Hotel,80,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Mont Blanc Resort,Hotel,170,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Niseko Lodge,Hotel,110,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Park City Palace,Hotel,180,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Volcano View Lodge,Hotel,90,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Matterhorn Hotel,Hotel,100,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Aspen Grove Hotel,Hotel,210,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Timberline Hotel,Hotel,130,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Tirolerhof,Hotel,150,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Lakeview Lodge,Hotel,120,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Pine Ridge Inn,Hotel,80,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Park City Palace,Hotel,180,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Mont Blanc Resort,Hotel,170,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Dolomiti Palace,Hotel,160,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Aspen Grove Hotel,Hotel,210,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Volcano View Lodge,Hotel,90,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Matterhorn Hotel,Hotel,100,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Timberline Hotel,Hotel,130,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Mont Blanc Resort,Hotel,170,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Niseko Lodge,Hotel,110,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Tirolerhof,Hotel,150,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Lakeview Lodge,Hotel,120,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Matterhorn Hotel,Hotel,100,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Aspen Grove Hotel,Hotel,210,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Park City Palace,Hotel,180,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Mont Blanc Resort,Hotel,170,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Dolomiti Palace,Hotel,160,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Tirolerhof,Hotel,150,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Pine Ridge Inn,Hotel,80,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Mont Blanc Resort,Hotel,170,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Volcano View Lodge,Hotel,90,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Lakeview Lodge,Hotel,120,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Park City Palace,Hotel,180,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Aspen Grove Hotel,Hotel,210,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Matterhorn Hotel,Hotel,100,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Mont Blanc Resort,Hotel,170,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Annupuri Summit,3.3,rot,91,Niseko Lodge,Hotel,110,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Timberline Hotel,Hotel,130,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Tirolerhof,Hotel,150,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Lakeview Lodge,Hotel,120,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Pomedes,2.5,blau,62,Dolomiti Palace,Hotel,160,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Volcano View Lodge,Hotel,90,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Powerline Glades,2.7,schwarz,68,Aspen Grove Hotel,Hotel,210,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Mont Blanc Resort,Hotel,170,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Schwarzsee,4.3,schwarz,77,Matterhorn Hotel,Hotel,100,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Cascade,1.5,schwarz,41,Timberline Hotel,Hotel,130,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Rock Garden,2.4,rot,53,Volcano View Lodge,Hotel,90,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Lakeview Lodge,Hotel,120,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Gampen,2.5,blau,61,Tirolerhof,Hotel,150,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Verte,4.0,blau,74,Mont Blanc Resort,Hotel,170,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Green Acres,1.2,blau,28,Pine Ridge Inn,Hotel,80,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Paradise Bowl,2.8,schwarz,58,Lakeview Lodge,Hotel,120,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Homerun,3.5,blau,60,Park City Palace,Hotel,180,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Tirolerhof,Hotel,150,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Matterhorn Hotel,Hotel,100,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Matterhorn Hotel,Hotel,100,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Matterhorn Hotel,Hotel,100,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Tirolerhof,Hotel,150,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Matterhorn Hotel,Hotel,100,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Tirolerhof,Hotel,150,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Matterhorn Hotel,Hotel,100,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Tirolerhof,Hotel,150,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Matterhorn Hotel,Hotel,100,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Tirolerhof,Hotel,150,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,La Chaux,2.3,blau,51,Matterhorn Hotel,Hotel,100,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Fernerhaus,3.0,blau,78,Tirolerhof,Hotel,150,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Matterhorn Hotel,Hotel,100,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Matterhorn Hotel,Hotel,100,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Matterhorn Hotel,Hotel,100,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Matterhorn Hotel,Hotel,100,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Matterhorn Hotel,Hotel,100,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Matterhorn Hotel,Hotel,100,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Breithorn,5.3,schwarz,144,Matterhorn Hotel,Hotel,100,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Snowy Peak Retreat,Ferienhaus,20,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Fir Tree Cabins,Ferienhaus,15,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Alpenrose Hotel,Hotel,200,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Edelweiss Lodge,Hotel,150,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Glacier Hotel,Hotel,130,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Alpenglow Lodge,Hotel,180,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Edelweiss Lodge,Hotel,150,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Summit View Hotel,Hotel,80,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Alpenglow Lodge,Hotel,180,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Snowline Inn,Gasthaus,25,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Alpine Dreams Hotel,Hotel,140,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Snowy Peak Retreat,Ferienhaus,20,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Glacier Hotel,Hotel,130,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Snowfall Hotel,Hotel,125,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Trailhead Lodge,Gasthaus,20,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Summit View Hotel,Hotel,80,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Edelweiss Lodge,Hotel,150,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Alpenglow Lodge,Hotel,180,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Fir Tree Cabins,Ferienhaus,15,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Alpenrose Hotel,Hotel,200,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Snowline Inn,Gasthaus,25,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Snowy Peak Retreat,Ferienhaus,20,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Trailhead Lodge,Gasthaus,20,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Glacier Hotel,Hotel,130,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Alpine Dreams Hotel,Hotel,140,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Alpenglow Lodge,Hotel,180,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Summit View Hotel,Hotel,80,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Edelweiss Lodge,Hotel,150,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Fir Tree Cabins,Ferienhaus,15,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Glacier Hotel,Hotel,130,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Snowfall Hotel,Hotel,125,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Alpenrose Hotel,Hotel,200,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Snowline Inn,Gasthaus,25,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Edelweiss Lodge,Hotel,150,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Alpenglow Lodge,Hotel,180,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Trailhead Lodge,Gasthaus,20,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Glacier Hotel,Hotel,130,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Alpine Dreams Hotel,Hotel,140,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Alpenrose Hotel,Hotel,200,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Snowy Peak Retreat,Ferienhaus,20,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Glacier Hotel,Hotel,130,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Summit View Hotel,Hotel,80,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Snowline Inn,Gasthaus,25,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Trailhead Lodge,Gasthaus,20,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Alpenglow Lodge,Hotel,180,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Edelweiss Lodge,Hotel,150,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Glacier Hotel,Hotel,130,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Snowfall Hotel,Hotel,125,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Fir Tree Cabins,Ferienhaus,15,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Alpenrose Hotel,Hotel,200,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Snowline Inn,Gasthaus,25,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Alpine Dreams Hotel,Hotel,140,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Summit View Hotel,Hotel,80,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Alpenglow Lodge,Hotel,180,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Glacier Hotel,Hotel,130,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Edelweiss Lodge,Hotel,150,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Fir Tree Cabins,Ferienhaus,15,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Summit View Hotel,Hotel,80,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Snowline Inn,Gasthaus,25,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Alpenrose Hotel,Hotel,200,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Glacier Hotel,Hotel,130,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Snowy Peak Retreat,Ferienhaus,20,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Snowline Inn,Gasthaus,25,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Trailhead Lodge,Gasthaus,20,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Alpenrose Hotel,Hotel,200,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Edelweiss Lodge,Hotel,150,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Edelweiss Lodge,Hotel,150,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Edelweiss Lodge,Hotel,150,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Alpenrose Hotel,Hotel,200,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Edelweiss Lodge,Hotel,150,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Alpenrose Hotel,Hotel,200,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Edelweiss Lodge,Hotel,150,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Alpenrose Hotel,Hotel,200,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Edelweiss Lodge,Hotel,150,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Alpenrose Hotel,Hotel,200,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Edelweiss Lodge,Hotel,150,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Alpenrose Hotel,Hotel,200,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Edelweiss Lodge,Hotel,150,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Edelweiss Lodge,Hotel,150,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Edelweiss Lodge,Hotel,150,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Edelweiss Lodge,Hotel,150,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Edelweiss Lodge,Hotel,150,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Edelweiss Lodge,Hotel,150,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Edelweiss Lodge,Hotel,150,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Mountain View Cabins,Chalet,30,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Ski View Inn,Hotel,150,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Kaiserblick,Gasthaus,25,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Snow Haven Inn,Gasthaus,20,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Refuge,Gasthaus,15,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Eagle Nest Inn,Gasthaus,30,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Snow Haven Inn,Gasthaus,20,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Kiwi Snow Inn,Gasthaus,15,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Eagle Nest Inn,Gasthaus,30,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Glacier Lodge,Hotel,150,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,La Baita,Gasthaus,20,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Mountain View Cabins,Chalet,30,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Refuge,Gasthaus,15,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Shirokuma Inn,Gasthaus,18,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Sundance Inn,Hotel,95,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Kiwi Snow Inn,Gasthaus,15,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Snow Haven Inn,Gasthaus,20,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Eagle Nest Inn,Gasthaus,30,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Ski View Inn,Hotel,150,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Kaiserblick,Gasthaus,25,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Glacier Lodge,Hotel,150,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Mountain View Cabins,Chalet,30,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Sundance Inn,Hotel,95,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Refuge,Gasthaus,15,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,La Baita,Gasthaus,20,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Eagle Nest Inn,Gasthaus,30,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Kiwi Snow Inn,Gasthaus,15,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Snow Haven Inn,Gasthaus,20,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Ski View Inn,Hotel,150,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Refuge,Gasthaus,15,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Shirokuma Inn,Gasthaus,18,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Kaiserblick,Gasthaus,25,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Glacier Lodge,Hotel,150,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Snow Haven Inn,Gasthaus,20,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Eagle Nest Inn,Gasthaus,30,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Sundance Inn,Hotel,95,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Refuge,Gasthaus,15,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,La Baita,Gasthaus,20,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Kaiserblick,Gasthaus,25,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Mountain View Cabins,Chalet,30,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Refuge,Gasthaus,15,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Kiwi Snow Inn,Gasthaus,15,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Glacier Lodge,Hotel,150,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Sundance Inn,Hotel,95,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Eagle Nest Inn,Gasthaus,30,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Snow Haven Inn,Gasthaus,20,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Refuge,Gasthaus,15,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Shirokuma Inn,Gasthaus,18,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Ski View Inn,Hotel,150,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Kaiserblick,Gasthaus,25,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Glacier Lodge,Hotel,150,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,La Baita,Gasthaus,20,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Kiwi Snow Inn,Gasthaus,15,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Eagle Nest Inn,Gasthaus,30,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Refuge,Gasthaus,15,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Snow Haven Inn,Gasthaus,20,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Ski View Inn,Hotel,150,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Kiwi Snow Inn,Gasthaus,15,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Glacier Lodge,Hotel,150,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Kaiserblick,Gasthaus,25,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Le Refuge,Gasthaus,15,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Mountain View Cabins,Chalet,30,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Glacier Lodge,Hotel,150,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Sundance Inn,Hotel,95,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Kaiserblick,Gasthaus,25,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Snow Haven Inn,Gasthaus,20,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Snow Haven Inn,Gasthaus,20,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Snow Haven Inn,Gasthaus,20,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Kaiserblick,Gasthaus,25,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Snow Haven Inn,Gasthaus,20,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Kaiserblick,Gasthaus,25,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Snow Haven Inn,Gasthaus,20,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Kaiserblick,Gasthaus,25,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Snow Haven Inn,Gasthaus,20,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Kaiserblick,Gasthaus,25,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Snow Haven Inn,Gasthaus,20,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Kaiserblick,Gasthaus,25,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Snow Haven Inn,Gasthaus,20,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Snow Haven Inn,Gasthaus,20,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Snow Haven Inn,Gasthaus,20,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Snow Haven Inn,Gasthaus,20,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Snow Haven Inn,Gasthaus,20,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Snow Haven Inn,Gasthaus,20,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Snow Haven Inn,Gasthaus,20,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Whistler Lodge,Hotel,200,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Mt. Hood Chalet,Chalet,25,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Bergblick Chalet,Chalet,40,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Zermatt Chalet,Chalet,30,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Alpine Ridge Chalet,Chalet,30,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Snowmass Chalet,Chalet,50,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Zermatt Chalet,Chalet,30,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Alpine Chalets,Chalet,20,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Snowmass Chalet,Chalet,50,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Rocky Retreat,Ferienwohnung,40,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Cortina Chalet,Chalet,45,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Whistler Lodge,Hotel,200,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Alpine Ridge Chalet,Chalet,30,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Mount Yotei Chalet,Chalet,25,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Jupiter Chalet,Chalet,35,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Alpine Chalets,Chalet,20,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Zermatt Chalet,Chalet,30,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Snowmass Chalet,Chalet,50,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Mt. Hood Chalet,Chalet,25,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Bergblick Chalet,Chalet,40,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Rocky Retreat,Ferienwohnung,40,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Whistler Lodge,Hotel,200,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Jupiter Chalet,Chalet,35,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Alpine Ridge Chalet,Chalet,30,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Cortina Chalet,Chalet,45,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Snowmass Chalet,Chalet,50,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Alpine Chalets,Chalet,20,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Zermatt Chalet,Chalet,30,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Mt. Hood Chalet,Chalet,25,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Alpine Ridge Chalet,Chalet,30,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Mount Yotei Chalet,Chalet,25,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Bergblick Chalet,Chalet,40,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Rocky Retreat,Ferienwohnung,40,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Zermatt Chalet,Chalet,30,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Snowmass Chalet,Chalet,50,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Jupiter Chalet,Chalet,35,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Alpine Ridge Chalet,Chalet,30,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Cortina Chalet,Chalet,45,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Bergblick Chalet,Chalet,40,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Whistler Lodge,Hotel,200,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Alpine Ridge Chalet,Chalet,30,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Alpine Chalets,Chalet,20,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Rocky Retreat,Ferienwohnung,40,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Jupiter Chalet,Chalet,35,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Snowmass Chalet,Chalet,50,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Zermatt Chalet,Chalet,30,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Alpine Ridge Chalet,Chalet,30,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Mount Yotei Chalet,Chalet,25,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Mt. Hood Chalet,Chalet,25,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Bergblick Chalet,Chalet,40,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Rocky Retreat,Ferienwohnung,40,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Cortina Chalet,Chalet,45,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Alpine Chalets,Chalet,20,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Snowmass Chalet,Chalet,50,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Alpine Ridge Chalet,Chalet,30,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Zermatt Chalet,Chalet,30,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Mt. Hood Chalet,Chalet,25,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Alpine Chalets,Chalet,20,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Rocky Retreat,Ferienwohnung,40,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Bergblick Chalet,Chalet,40,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Alpine Ridge Chalet,Chalet,30,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Whistler Lodge,Hotel,200,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Rocky Retreat,Ferienwohnung,40,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Jupiter Chalet,Chalet,35,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Bergblick Chalet,Chalet,40,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Zermatt Chalet,Chalet,30,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Zermatt Chalet,Chalet,30,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Zermatt Chalet,Chalet,30,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Bergblick Chalet,Chalet,40,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Zermatt Chalet,Chalet,30,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Bergblick Chalet,Chalet,40,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Zermatt Chalet,Chalet,30,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Bergblick Chalet,Chalet,40,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Zermatt Chalet,Chalet,30,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Bergblick Chalet,Chalet,40,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Zermatt Chalet,Chalet,30,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Bergblick Chalet,Chalet,40,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Zermatt Chalet,Chalet,30,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Zermatt Chalet,Chalet,30,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Zermatt Chalet,Chalet,30,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Zermatt Chalet,Chalet,30,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Zermatt Chalet,Chalet,30,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Zermatt Chalet,Chalet,30,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Zermatt Chalet,Chalet,30,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Evergreen Escape,Ferienwohnung,50,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Cascade Lodge,Ferienwohnung,40,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Zillertal Ferienhaus,Ferienwohnung,70,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Savoie Apartments,Ferienwohnung,45,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Rocky Ridge Retreat,Ferienwohnung,60,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Swiss Alp Lodge,Ferienwohnung,55,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Ruapehu Retreat,Ferienwohnung,30,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Rocky Ridge Retreat,Ferienwohnung,60,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Banff Mountain Chalet,Chalet,60,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Mountain Vista Lodge,Ferienwohnung,50,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Evergreen Escape,Ferienwohnung,50,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Savoie Apartments,Ferienwohnung,45,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Sapporo Ski Apartments,Ferienwohnung,35,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Alpine Getaway,Ferienwohnung,45,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Ruapehu Retreat,Ferienwohnung,30,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Swiss Alp Lodge,Ferienwohnung,55,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Rocky Ridge Retreat,Ferienwohnung,60,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Cascade Lodge,Ferienwohnung,40,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Zillertal Ferienhaus,Ferienwohnung,70,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Banff Mountain Chalet,Chalet,60,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Evergreen Escape,Ferienwohnung,50,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Alpine Getaway,Ferienwohnung,45,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Savoie Apartments,Ferienwohnung,45,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Mountain Vista Lodge,Ferienwohnung,50,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Rocky Ridge Retreat,Ferienwohnung,60,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Ruapehu Retreat,Ferienwohnung,30,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Swiss Alp Lodge,Ferienwohnung,55,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Cascade Lodge,Ferienwohnung,40,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Savoie Apartments,Ferienwohnung,45,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Sapporo Ski Apartments,Ferienwohnung,35,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Zillertal Ferienhaus,Ferienwohnung,70,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Banff Mountain Chalet,Chalet,60,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Rocky Ridge Retreat,Ferienwohnung,60,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Alpine Getaway,Ferienwohnung,45,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Savoie Apartments,Ferienwohnung,45,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Mountain Vista Lodge,Ferienwohnung,50,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Zillertal Ferienhaus,Ferienwohnung,70,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Evergreen Escape,Ferienwohnung,50,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Savoie Apartments,Ferienwohnung,45,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Ruapehu Retreat,Ferienwohnung,30,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Banff Mountain Chalet,Chalet,60,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Alpine Getaway,Ferienwohnung,45,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Rocky Ridge Retreat,Ferienwohnung,60,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Swiss Alp Lodge,Ferienwohnung,55,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Savoie Apartments,Ferienwohnung,45,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Sapporo Ski Apartments,Ferienwohnung,35,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Cascade Lodge,Ferienwohnung,40,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Zillertal Ferienhaus,Ferienwohnung,70,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Banff Mountain Chalet,Chalet,60,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Mountain Vista Lodge,Ferienwohnung,50,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Ruapehu Retreat,Ferienwohnung,30,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Rocky Ridge Retreat,Ferienwohnung,60,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Savoie Apartments,Ferienwohnung,45,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Swiss Alp Lodge,Ferienwohnung,55,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Cascade Lodge,Ferienwohnung,40,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Ruapehu Retreat,Ferienwohnung,30,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Banff Mountain Chalet,Chalet,60,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Zillertal Ferienhaus,Ferienwohnung,70,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Savoie Apartments,Ferienwohnung,45,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Evergreen Escape,Ferienwohnung,50,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Banff Mountain Chalet,Chalet,60,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Alpine Getaway,Ferienwohnung,45,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Zillertal Ferienhaus,Ferienwohnung,70,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Swiss Alp Lodge,Ferienwohnung,55,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Swiss Alp Lodge,Ferienwohnung,55,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Zillertal Ferienhaus,Ferienwohnung,70,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Swiss Alp Lodge,Ferienwohnung,55,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Zillertal Ferienhaus,Ferienwohnung,70,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Zillertal Ferienhaus,Ferienwohnung,70,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Swiss Alp Lodge,Ferienwohnung,55,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Zillertal Ferienhaus,Ferienwohnung,70,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Swiss Alp Lodge,Ferienwohnung,55,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Zillertal Ferienhaus,Ferienwohnung,70,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Swiss Alp Lodge,Ferienwohnung,55,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Swiss Alp Lodge,Ferienwohnung,55,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Swiss Alp Lodge,Ferienwohnung,55,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Swiss Alp Lodge,Ferienwohnung,55,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Swiss Alp Lodge,Ferienwohnung,55,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Pine Ridge Inn,Hotel,80,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Timberline Hotel,Hotel,130,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Tirolerhof,Hotel,150,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Matterhorn Hotel,Hotel,100,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Mont Blanc Resort,Hotel,170,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Aspen Grove Hotel,Hotel,210,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Matterhorn Hotel,Hotel,100,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Volcano View Lodge,Hotel,90,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Aspen Grove Hotel,Hotel,210,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Lakeview Lodge,Hotel,120,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Dolomiti Palace,Hotel,160,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Pine Ridge Inn,Hotel,80,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Mont Blanc Resort,Hotel,170,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Niseko Lodge,Hotel,110,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Park City Palace,Hotel,180,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Volcano View Lodge,Hotel,90,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Matterhorn Hotel,Hotel,100,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Aspen Grove Hotel,Hotel,210,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Timberline Hotel,Hotel,130,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Tirolerhof,Hotel,150,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Lakeview Lodge,Hotel,120,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Pine Ridge Inn,Hotel,80,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Park City Palace,Hotel,180,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Mont Blanc Resort,Hotel,170,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Dolomiti Palace,Hotel,160,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Aspen Grove Hotel,Hotel,210,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Volcano View Lodge,Hotel,90,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Matterhorn Hotel,Hotel,100,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Timberline Hotel,Hotel,130,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Mont Blanc Resort,Hotel,170,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Niseko Lodge,Hotel,110,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Tirolerhof,Hotel,150,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Lakeview Lodge,Hotel,120,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Matterhorn Hotel,Hotel,100,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Aspen Grove Hotel,Hotel,210,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Park City Palace,Hotel,180,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Mont Blanc Resort,Hotel,170,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Dolomiti Palace,Hotel,160,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Tirolerhof,Hotel,150,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Pine Ridge Inn,Hotel,80,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Mont Blanc Resort,Hotel,170,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Volcano View Lodge,Hotel,90,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Lakeview Lodge,Hotel,120,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Park City Palace,Hotel,180,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Aspen Grove Hotel,Hotel,210,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Matterhorn Hotel,Hotel,100,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Mont Blanc Resort,Hotel,170,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Family Run,1.8,blau,40,Niseko Lodge,Hotel,110,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Timberline Hotel,Hotel,130,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Tirolerhof,Hotel,150,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Lakeview Lodge,Hotel,120,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Tofana,5.5,rot,127,Dolomiti Palace,Hotel,160,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Volcano View Lodge,Hotel,90,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Big Burn,4.5,blau,111,Aspen Grove Hotel,Hotel,210,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Mont Blanc Resort,Hotel,170,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Furggsattel,5.8,blau,141,Matterhorn Hotel,Hotel,100,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Molly's,3.0,blau,80,Timberline Hotel,Hotel,130,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,Happy Valley,1.5,blau,25,Volcano View Lodge,Hotel,90,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Lakeview Lodge,Hotel,120,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Kapall,3.4,rot,77,Tirolerhof,Hotel,150,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,Solaise,6.0,rot,129,Mont Blanc Resort,Hotel,170,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Dave Murray Downhill,3.1,schwarz,68,Pine Ridge Inn,Hotel,80,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Ptarmigan,4.0,blau,80,Lakeview Lodge,Hotel,120,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Silver King,4.0,rot,109,Park City Palace,Hotel,180,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Tirolerhof,Hotel,150,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Matterhorn Hotel,Hotel,100,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Matterhorn Hotel,Hotel,100,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Matterhorn Hotel,Hotel,100,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Tirolerhof,Hotel,150,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Matterhorn Hotel,Hotel,100,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Tirolerhof,Hotel,150,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Matterhorn Hotel,Hotel,100,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Tirolerhof,Hotel,150,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Matterhorn Hotel,Hotel,100,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Tirolerhof,Hotel,150,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Attelas,3.7,rot,101,Matterhorn Hotel,Hotel,100,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Olperer,4.0,rot,74,Tirolerhof,Hotel,150,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Matterhorn Hotel,Hotel,100,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Matterhorn Hotel,Hotel,100,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Matterhorn Hotel,Hotel,100,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Matterhorn Hotel,Hotel,100,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Matterhorn Hotel,Hotel,100,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Matterhorn Hotel,Hotel,100,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Gobba di Rollin,6.5,blau,148,Matterhorn Hotel,Hotel,100,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Snowy Peak Retreat,Ferienhaus,20,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Fir Tree Cabins,Ferienhaus,15,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Alpenrose Hotel,Hotel,200,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Edelweiss Lodge,Hotel,150,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Glacier Hotel,Hotel,130,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Alpenglow Lodge,Hotel,180,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Edelweiss Lodge,Hotel,150,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Summit View Hotel,Hotel,80,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Alpenglow Lodge,Hotel,180,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Snowline Inn,Gasthaus,25,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Alpine Dreams Hotel,Hotel,140,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Snowy Peak Retreat,Ferienhaus,20,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Glacier Hotel,Hotel,130,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Snowfall Hotel,Hotel,125,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Trailhead Lodge,Gasthaus,20,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Summit View Hotel,Hotel,80,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Edelweiss Lodge,Hotel,150,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Alpenglow Lodge,Hotel,180,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Fir Tree Cabins,Ferienhaus,15,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Alpenrose Hotel,Hotel,200,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Snowline Inn,Gasthaus,25,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Snowy Peak Retreat,Ferienhaus,20,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Trailhead Lodge,Gasthaus,20,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Glacier Hotel,Hotel,130,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Alpine Dreams Hotel,Hotel,140,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Alpenglow Lodge,Hotel,180,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Summit View Hotel,Hotel,80,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Edelweiss Lodge,Hotel,150,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Fir Tree Cabins,Ferienhaus,15,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Glacier Hotel,Hotel,130,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Snowfall Hotel,Hotel,125,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Alpenrose Hotel,Hotel,200,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Snowline Inn,Gasthaus,25,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Edelweiss Lodge,Hotel,150,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Alpenglow Lodge,Hotel,180,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Trailhead Lodge,Gasthaus,20,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Glacier Hotel,Hotel,130,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Alpine Dreams Hotel,Hotel,140,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Alpenrose Hotel,Hotel,200,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Snowy Peak Retreat,Ferienhaus,20,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Glacier Hotel,Hotel,130,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Summit View Hotel,Hotel,80,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Snowline Inn,Gasthaus,25,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Trailhead Lodge,Gasthaus,20,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Alpenglow Lodge,Hotel,180,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Edelweiss Lodge,Hotel,150,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Glacier Hotel,Hotel,130,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Snowfall Hotel,Hotel,125,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Fir Tree Cabins,Ferienhaus,15,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Alpenrose Hotel,Hotel,200,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Snowline Inn,Gasthaus,25,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Alpine Dreams Hotel,Hotel,140,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Summit View Hotel,Hotel,80,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Alpenglow Lodge,Hotel,180,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Glacier Hotel,Hotel,130,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Edelweiss Lodge,Hotel,150,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Fir Tree Cabins,Ferienhaus,15,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Summit View Hotel,Hotel,80,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Snowline Inn,Gasthaus,25,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Alpenrose Hotel,Hotel,200,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Glacier Hotel,Hotel,130,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Snowy Peak Retreat,Ferienhaus,20,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Snowline Inn,Gasthaus,25,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Trailhead Lodge,Gasthaus,20,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Alpenrose Hotel,Hotel,200,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Edelweiss Lodge,Hotel,150,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Edelweiss Lodge,Hotel,150,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Edelweiss Lodge,Hotel,150,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Alpenrose Hotel,Hotel,200,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Edelweiss Lodge,Hotel,150,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Alpenrose Hotel,Hotel,200,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Edelweiss Lodge,Hotel,150,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Alpenrose Hotel,Hotel,200,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Edelweiss Lodge,Hotel,150,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Alpenrose Hotel,Hotel,200,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Edelweiss Lodge,Hotel,150,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Alpenrose Hotel,Hotel,200,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Edelweiss Lodge,Hotel,150,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Edelweiss Lodge,Hotel,150,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Edelweiss Lodge,Hotel,150,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Edelweiss Lodge,Hotel,150,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Edelweiss Lodge,Hotel,150,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Edelweiss Lodge,Hotel,150,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Edelweiss Lodge,Hotel,150,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Mountain View Cabins,Chalet,30,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Ski View Inn,Hotel,150,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Kaiserblick,Gasthaus,25,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Snow Haven Inn,Gasthaus,20,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Refuge,Gasthaus,15,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Eagle Nest Inn,Gasthaus,30,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Snow Haven Inn,Gasthaus,20,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Kiwi Snow Inn,Gasthaus,15,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Eagle Nest Inn,Gasthaus,30,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Glacier Lodge,Hotel,150,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,La Baita,Gasthaus,20,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Mountain View Cabins,Chalet,30,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Refuge,Gasthaus,15,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Shirokuma Inn,Gasthaus,18,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Sundance Inn,Hotel,95,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Kiwi Snow Inn,Gasthaus,15,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Snow Haven Inn,Gasthaus,20,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Eagle Nest Inn,Gasthaus,30,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Ski View Inn,Hotel,150,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Kaiserblick,Gasthaus,25,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Glacier Lodge,Hotel,150,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Mountain View Cabins,Chalet,30,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Sundance Inn,Hotel,95,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Refuge,Gasthaus,15,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,La Baita,Gasthaus,20,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Eagle Nest Inn,Gasthaus,30,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Kiwi Snow Inn,Gasthaus,15,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Snow Haven Inn,Gasthaus,20,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Ski View Inn,Hotel,150,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Refuge,Gasthaus,15,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Shirokuma Inn,Gasthaus,18,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Kaiserblick,Gasthaus,25,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Glacier Lodge,Hotel,150,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Snow Haven Inn,Gasthaus,20,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Eagle Nest Inn,Gasthaus,30,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Sundance Inn,Hotel,95,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Refuge,Gasthaus,15,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,La Baita,Gasthaus,20,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Kaiserblick,Gasthaus,25,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Mountain View Cabins,Chalet,30,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Refuge,Gasthaus,15,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Kiwi Snow Inn,Gasthaus,15,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Glacier Lodge,Hotel,150,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Sundance Inn,Hotel,95,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Eagle Nest Inn,Gasthaus,30,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Snow Haven Inn,Gasthaus,20,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Refuge,Gasthaus,15,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Shirokuma Inn,Gasthaus,18,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Ski View Inn,Hotel,150,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Kaiserblick,Gasthaus,25,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Glacier Lodge,Hotel,150,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,La Baita,Gasthaus,20,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Kiwi Snow Inn,Gasthaus,15,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Eagle Nest Inn,Gasthaus,30,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Refuge,Gasthaus,15,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Snow Haven Inn,Gasthaus,20,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Ski View Inn,Hotel,150,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Kiwi Snow Inn,Gasthaus,15,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Glacier Lodge,Hotel,150,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Kaiserblick,Gasthaus,25,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Le Refuge,Gasthaus,15,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Mountain View Cabins,Chalet,30,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Glacier Lodge,Hotel,150,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Sundance Inn,Hotel,95,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Kaiserblick,Gasthaus,25,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Snow Haven Inn,Gasthaus,20,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Snow Haven Inn,Gasthaus,20,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Snow Haven Inn,Gasthaus,20,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Kaiserblick,Gasthaus,25,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Snow Haven Inn,Gasthaus,20,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Kaiserblick,Gasthaus,25,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Snow Haven Inn,Gasthaus,20,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Kaiserblick,Gasthaus,25,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Snow Haven Inn,Gasthaus,20,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Kaiserblick,Gasthaus,25,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Snow Haven Inn,Gasthaus,20,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Kaiserblick,Gasthaus,25,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Snow Haven Inn,Gasthaus,20,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Snow Haven Inn,Gasthaus,20,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Snow Haven Inn,Gasthaus,20,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Snow Haven Inn,Gasthaus,20,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Snow Haven Inn,Gasthaus,20,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Snow Haven Inn,Gasthaus,20,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Snow Haven Inn,Gasthaus,20,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Whistler Lodge,Hotel,200,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Mt. Hood Chalet,Chalet,25,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Bergblick Chalet,Chalet,40,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Zermatt Chalet,Chalet,30,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Alpine Ridge Chalet,Chalet,30,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Snowmass Chalet,Chalet,50,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Zermatt Chalet,Chalet,30,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Alpine Chalets,Chalet,20,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Snowmass Chalet,Chalet,50,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Rocky Retreat,Ferienwohnung,40,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Cortina Chalet,Chalet,45,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Whistler Lodge,Hotel,200,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Alpine Ridge Chalet,Chalet,30,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Mount Yotei Chalet,Chalet,25,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Jupiter Chalet,Chalet,35,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Alpine Chalets,Chalet,20,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Zermatt Chalet,Chalet,30,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Snowmass Chalet,Chalet,50,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Mt. Hood Chalet,Chalet,25,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Bergblick Chalet,Chalet,40,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Rocky Retreat,Ferienwohnung,40,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Whistler Lodge,Hotel,200,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Jupiter Chalet,Chalet,35,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Alpine Ridge Chalet,Chalet,30,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Cortina Chalet,Chalet,45,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Snowmass Chalet,Chalet,50,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Alpine Chalets,Chalet,20,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Zermatt Chalet,Chalet,30,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Mt. Hood Chalet,Chalet,25,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Alpine Ridge Chalet,Chalet,30,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Mount Yotei Chalet,Chalet,25,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Bergblick Chalet,Chalet,40,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Rocky Retreat,Ferienwohnung,40,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Zermatt Chalet,Chalet,30,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Snowmass Chalet,Chalet,50,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Jupiter Chalet,Chalet,35,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Alpine Ridge Chalet,Chalet,30,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Cortina Chalet,Chalet,45,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Bergblick Chalet,Chalet,40,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Whistler Lodge,Hotel,200,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Alpine Ridge Chalet,Chalet,30,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Alpine Chalets,Chalet,20,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Rocky Retreat,Ferienwohnung,40,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Jupiter Chalet,Chalet,35,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Snowmass Chalet,Chalet,50,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Zermatt Chalet,Chalet,30,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Alpine Ridge Chalet,Chalet,30,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Mount Yotei Chalet,Chalet,25,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Mt. Hood Chalet,Chalet,25,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Bergblick Chalet,Chalet,40,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Rocky Retreat,Ferienwohnung,40,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Cortina Chalet,Chalet,45,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Alpine Chalets,Chalet,20,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Snowmass Chalet,Chalet,50,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Alpine Ridge Chalet,Chalet,30,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Zermatt Chalet,Chalet,30,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Mt. Hood Chalet,Chalet,25,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Alpine Chalets,Chalet,20,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Rocky Retreat,Ferienwohnung,40,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Bergblick Chalet,Chalet,40,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Alpine Ridge Chalet,Chalet,30,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Whistler Lodge,Hotel,200,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Rocky Retreat,Ferienwohnung,40,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Jupiter Chalet,Chalet,35,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Bergblick Chalet,Chalet,40,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Zermatt Chalet,Chalet,30,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Zermatt Chalet,Chalet,30,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Zermatt Chalet,Chalet,30,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Bergblick Chalet,Chalet,40,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Zermatt Chalet,Chalet,30,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Bergblick Chalet,Chalet,40,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Zermatt Chalet,Chalet,30,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Bergblick Chalet,Chalet,40,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Zermatt Chalet,Chalet,30,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Bergblick Chalet,Chalet,40,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Zermatt Chalet,Chalet,30,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Bergblick Chalet,Chalet,40,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Zermatt Chalet,Chalet,30,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Zermatt Chalet,Chalet,30,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Zermatt Chalet,Chalet,30,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Zermatt Chalet,Chalet,30,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Zermatt Chalet,Chalet,30,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Zermatt Chalet,Chalet,30,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Zermatt Chalet,Chalet,30,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Evergreen Escape,Ferienwohnung,50,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Cascade Lodge,Ferienwohnung,40,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Zillertal Ferienhaus,Ferienwohnung,70,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Savoie Apartments,Ferienwohnung,45,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Rocky Ridge Retreat,Ferienwohnung,60,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Swiss Alp Lodge,Ferienwohnung,55,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Ruapehu Retreat,Ferienwohnung,30,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Rocky Ridge Retreat,Ferienwohnung,60,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Banff Mountain Chalet,Chalet,60,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Mountain Vista Lodge,Ferienwohnung,50,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Evergreen Escape,Ferienwohnung,50,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Savoie Apartments,Ferienwohnung,45,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Sapporo Ski Apartments,Ferienwohnung,35,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Alpine Getaway,Ferienwohnung,45,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Ruapehu Retreat,Ferienwohnung,30,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Swiss Alp Lodge,Ferienwohnung,55,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Rocky Ridge Retreat,Ferienwohnung,60,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Cascade Lodge,Ferienwohnung,40,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Zillertal Ferienhaus,Ferienwohnung,70,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Banff Mountain Chalet,Chalet,60,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Evergreen Escape,Ferienwohnung,50,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Alpine Getaway,Ferienwohnung,45,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Savoie Apartments,Ferienwohnung,45,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Mountain Vista Lodge,Ferienwohnung,50,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Rocky Ridge Retreat,Ferienwohnung,60,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Ruapehu Retreat,Ferienwohnung,30,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Swiss Alp Lodge,Ferienwohnung,55,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Cascade Lodge,Ferienwohnung,40,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Savoie Apartments,Ferienwohnung,45,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Sapporo Ski Apartments,Ferienwohnung,35,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Zillertal Ferienhaus,Ferienwohnung,70,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Banff Mountain Chalet,Chalet,60,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Rocky Ridge Retreat,Ferienwohnung,60,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Alpine Getaway,Ferienwohnung,45,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Savoie Apartments,Ferienwohnung,45,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Mountain Vista Lodge,Ferienwohnung,50,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Zillertal Ferienhaus,Ferienwohnung,70,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Evergreen Escape,Ferienwohnung,50,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Savoie Apartments,Ferienwohnung,45,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Ruapehu Retreat,Ferienwohnung,30,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Banff Mountain Chalet,Chalet,60,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Alpine Getaway,Ferienwohnung,45,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Rocky Ridge Retreat,Ferienwohnung,60,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Swiss Alp Lodge,Ferienwohnung,55,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Savoie Apartments,Ferienwohnung,45,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Sapporo Ski Apartments,Ferienwohnung,35,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Cascade Lodge,Ferienwohnung,40,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Zillertal Ferienhaus,Ferienwohnung,70,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Banff Mountain Chalet,Chalet,60,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Mountain Vista Lodge,Ferienwohnung,50,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Ruapehu Retreat,Ferienwohnung,30,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Rocky Ridge Retreat,Ferienwohnung,60,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Savoie Apartments,Ferienwohnung,45,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Swiss Alp Lodge,Ferienwohnung,55,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Cascade Lodge,Ferienwohnung,40,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Ruapehu Retreat,Ferienwohnung,30,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Banff Mountain Chalet,Chalet,60,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Zillertal Ferienhaus,Ferienwohnung,70,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Savoie Apartments,Ferienwohnung,45,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Evergreen Escape,Ferienwohnung,50,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Banff Mountain Chalet,Chalet,60,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Alpine Getaway,Ferienwohnung,45,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Zillertal Ferienhaus,Ferienwohnung,70,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Swiss Alp Lodge,Ferienwohnung,55,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Swiss Alp Lodge,Ferienwohnung,55,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Zillertal Ferienhaus,Ferienwohnung,70,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Swiss Alp Lodge,Ferienwohnung,55,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Zillertal Ferienhaus,Ferienwohnung,70,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Zillertal Ferienhaus,Ferienwohnung,70,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Swiss Alp Lodge,Ferienwohnung,55,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Zillertal Ferienhaus,Ferienwohnung,70,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Swiss Alp Lodge,Ferienwohnung,55,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Zillertal Ferienhaus,Ferienwohnung,70,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Swiss Alp Lodge,Ferienwohnung,55,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Swiss Alp Lodge,Ferienwohnung,55,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Swiss Alp Lodge,Ferienwohnung,55,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Swiss Alp Lodge,Ferienwohnung,55,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Swiss Alp Lodge,Ferienwohnung,55,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Swiss Alp Lodge,Ferienwohnung,55,Snowboard Pros Academy,Snowboard,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Pine Ridge Inn,Hotel,80,Alpine Action,Ski,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Timberline Hotel,Hotel,130,Snowboarders Paradise,Snowboard,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Tirolerhof,Hotel,150,Powder School,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Matterhorn Hotel,Hotel,100,Freestyle Factory,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Mont Blanc Resort,Hotel,170,Snowy Peaks Academy,Ski,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Aspen Grove Hotel,Hotel,210,Mountain Shredders,Snowboard,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Matterhorn Hotel,Hotel,100,Ski Masters,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Volcano View Lodge,Hotel,90,Snowboard University,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Aspen Grove Hotel,Hotel,210,Peak Performance Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Lakeview Lodge,Hotel,120,Alpine Explorers,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Dolomiti Palace,Hotel,160,Skiers’ Dream,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Pine Ridge Inn,Hotel,80,Winter Riders Academy,Snowboard,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Mont Blanc Resort,Hotel,170,Avalanche Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Niseko Lodge,Hotel,110,Snowboard Basics,Snowboard,Anfänger
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Park City Palace,Hotel,180,Freeride School,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Volcano View Lodge,Hotel,90,Chill & Shred,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Matterhorn Hotel,Hotel,100,The Ski Lab,Ski,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Aspen Grove Hotel,Hotel,210,ShredMasters,Snowboard,Profis
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Timberline Hotel,Hotel,130,Mountainboarders Academy,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Tirolerhof,Hotel,150,The Snowboard Institute,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Lakeview Lodge,Hotel,120,Ski Evolution,Ski,Anfänger
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Pine Ridge Inn,Hotel,80,Ice Riders,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Park City Palace,Hotel,180,Big Air Snowboard,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Mont Blanc Resort,Hotel,170,Snowy Summit Ski School,Ski,Fortgeschrittene
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Dolomiti Palace,Hotel,160,Vertical Riders,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Aspen Grove Hotel,Hotel,210,Mountain Mavericks,Ski,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Volcano View Lodge,Hotel,90,Snowboard Basecamp,Snowboard,Anfänger
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Matterhorn Hotel,Hotel,100,Snow Academy,Ski,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Timberline Hotel,Hotel,130,Boarding Legends,Snowboard,Profis
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Mont Blanc Resort,Hotel,170,Powder Ridge Ski School,Ski,Profis
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Niseko Lodge,Hotel,110,Alpine Snow School,Ski,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Tirolerhof,Hotel,150,Riders’ Retreat,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Lakeview Lodge,Hotel,120,Ultimate Ski Experience,Ski,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Matterhorn Hotel,Hotel,100,Freestyle Freaks,Snowboard,Profis
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Aspen Grove Hotel,Hotel,210,Glacier Shredders,Snowboard,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Park City Palace,Hotel,180,Snow Glide Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Mont Blanc Resort,Hotel,170,Mountain Side Ski School,Ski,Profis
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Dolomiti Palace,Hotel,160,Shredzone,Snowboard,Fortgeschrittene
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Tirolerhof,Hotel,150,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Pine Ridge Inn,Hotel,80,Powder & Peak Ski School,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Mont Blanc Resort,Hotel,170,Alpine Ride Academy,Snowboard,Profis
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Volcano View Lodge,Hotel,90,Board Walkers,Snowboard,Anfänger
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Lakeview Lodge,Hotel,120,Mountain Magic Ski School,Ski,Fortgeschrittene
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Park City Palace,Hotel,180,Snowboarding Pros,Snowboard,Anfänger
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Aspen Grove Hotel,Hotel,210,Snowboard Xtreme,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Matterhorn Hotel,Hotel,100,Altitude Ski Academy,Ski,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Mont Blanc Resort,Hotel,170,Mountain Ski and Board,Ski,Fortgeschrittene
+Niseko United,Hokkaido,1200,Winter,Japan,Super Course,2.1,schwarz,36,Niseko Lodge,Hotel,110,Alpine Glide Academy,Snowboard,Fortgeschrittene
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Timberline Hotel,Hotel,130,Boarding Skills Academy,Snowboard,Anfänger
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Tirolerhof,Hotel,150,Peak Performance Snowboard,Snowboard,Profis
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Lakeview Lodge,Hotel,120,Ski Peak Academy,Ski,Anfänger
+Cortina d'Ampezzo,Dolomiten,2930,Winter,Italien,Olympia,7.2,schwarz,194,Dolomiti Palace,Hotel,160,Alpine Snow Riders,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Volcano View Lodge,Hotel,90,Riders Edge Snowboard School,Snowboard,Fortgeschrittene
+Aspen Snowmass,Colorado,3813,Winter,USA,Long Shot,8.3,rot,156,Aspen Grove Hotel,Hotel,210,Peak Shred Academy,Snowboard,Anfänger
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Mont Blanc Resort,Hotel,170,Mountain Stars Ski School,Ski,Profis
+Zermatt (Matterhorn),Wallis,3899,Winter,Schweiz,Theodul Glacier,7.5,rot,168,Matterhorn Hotel,Hotel,100,Snowboard Pros Academy,Snowboard,Anfänger
+Timberline Lodge,Oregon,2631,ganzjährig,USA,Palmer,4.0,rot,76,Timberline Hotel,Hotel,130,Ski Bound Academy,Ski,Anfänger
+Whakapapa,Ruapehu,2322,ganzjährig,Neuseeland,The Pinnacles,2.8,schwarz,73,Volcano View Lodge,Hotel,90,Winter Warriors Snowboard,Snowboard,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Lakeview Lodge,Hotel,120,Ski Vision Academy,Ski,Profis
+St. Anton am Arlberg,Tirol,2811,Winter,Österreich,Valluga Run,10.2,schwarz,215,Tirolerhof,Hotel,150,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Val d'Isère,Savoie,3456,Winter,Frankreich,La Face,3.0,schwarz,76,Mont Blanc Resort,Hotel,170,Snowboard Summit,Snowboard,Profis
+Whistler Blackcomb,British Columbia,2436,Winter,Kanada,Peak to Creek,11.0,rot,238,Pine Ridge Inn,Hotel,80,Summit Riders Ski School,Ski,Fortgeschrittene
+Banff/Lake Louise,Alberta,2730,Winter,Kanada,Summit Run,6.2,rot,123,Lakeview Lodge,Hotel,120,Alpine Action,Ski,Anfänger
+Park City,Utah,3049,Winter,USA,Jupiter Bowl,2.2,schwarz,50,Park City Palace,Hotel,180,Snowboarders Paradise,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Tirolerhof,Hotel,150,Powder School,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Matterhorn Hotel,Hotel,100,Freestyle Factory,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Matterhorn Hotel,Hotel,100,Ski Masters,Ski,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Matterhorn Hotel,Hotel,100,The Ski Lab,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Tirolerhof,Hotel,150,The Snowboard Institute,Snowboard,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Matterhorn Hotel,Hotel,100,Snow Academy,Ski,Fortgeschrittene
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Tirolerhof,Hotel,150,Riders’ Retreat,Snowboard,Anfänger
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Matterhorn Hotel,Hotel,100,Freestyle Freaks,Snowboard,Profis
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Tirolerhof,Hotel,150,Summit Ski and Snowboard,Ski,Fortgeschrittene
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Matterhorn Hotel,Hotel,100,Altitude Ski Academy,Ski,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Tirolerhof,Hotel,150,Peak Performance Snowboard,Snowboard,Profis
+Verbier,Wallis,3330,Winter,Schweiz,Mont Fort,5.1,schwarz,129,Matterhorn Hotel,Hotel,100,Snowboard Pros Academy,Snowboard,Anfänger
+Hintertuxer Gletscher,Tirol,3250,ganzjährig,Österreich,Gefrorene Wand,5.8,schwarz,134,Tirolerhof,Hotel,150,Rider’s Edge Ski School,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Matterhorn Hotel,Hotel,100,Freestyle Factory,Snowboard,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Matterhorn Hotel,Hotel,100,Ski Masters,Ski,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Matterhorn Hotel,Hotel,100,The Ski Lab,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Matterhorn Hotel,Hotel,100,Snow Academy,Ski,Fortgeschrittene
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Matterhorn Hotel,Hotel,100,Freestyle Freaks,Snowboard,Profis
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Matterhorn Hotel,Hotel,100,Altitude Ski Academy,Ski,Anfänger
+Zermatt (Matterhorn Glacier Paradise),Wallis,3899,ganzjährig,Schweiz,Matterhorn Glacier,7.8,rot,190,Matterhorn Hotel,Hotel,100,Snowboard Pros Academy,Snowboard,Anfänger
