@@ -311,16 +311,11 @@
     "aufgabe1-8": {
         "ordered": false,
         "attributes": [
-            "DocId",
-            "StId",
-            "Date",
-            "StName",
-            "Major",
-            "Age"
+            "StName"
         ],
         "equals": [
-            [10, 2, "2017-03-17", "Holden Caulfield", "CS", 25],
-            [7, 4, "2018-04-22", "Paul Varjak", "CS", 31]
+            ["Holden Caulfield"],
+            ["Paul Varjak"]
         ]
     },
     "aufgabe1-9": {
