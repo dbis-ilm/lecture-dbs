@@ -1,0 +1,48 @@
+FilmID,Titel,ReleaseDate,FilmAwards,RegisseurID,Regisseur,RegisseurGB,RegieAwards,SchauspielerID,Schauspieler,SchauspielerGB,SchauspielAwards,Agentur,SongID,SongName,Interpret,TrackNr
+tt0076723,Slap Shot,1977,1,nm0001351,George Roy Hill,1921-12-20,7,nm0000056,Paul Newman,1925-01-26,38,AgenturA,,,,
+tt0076723,Slap Shot,1977,1,nm0001351,George Roy Hill,1921-12-20,7,nm0648920,Michael Ontkean,1946-01-24,0,AgenturB,,,,
+tt0070735,The Sting,1973,7,nm0001351,George Roy Hill,1921-12-20,7,nm0000602,Robert Redford,1936-08-18,43,AgenturA,sting1,Solace,Scott Joplin,1
+tt0070735,The Sting,1973,7,nm0001351,George Roy Hill,1921-12-20,7,nm0000602,Robert Redford,1936-08-18,43,AgenturA,sting2,The Entertainer,Scott Joplin,2
+tt0070735,The Sting,1973,7,nm0001351,George Roy Hill,1921-12-20,7,nm0000602,Robert Redford,1936-08-18,43,AgenturA,sting3,The Easy Winners,Scott Joplin,3
+tt0070735,The Sting,1973,7,nm0001351,George Roy Hill,1921-12-20,7,nm0000602,Robert Redford,1936-08-18,43,AgenturA,sting4,Hooker's Hooker,Marvin Hamlisch,4
+tt0070735,The Sting,1973,7,nm0001351,George Roy Hill,1921-12-20,7,nm0000056,Paul Newman,1925-01-26,38,AgenturA,sting1,Solace,Scott Joplin,1
+tt0070735,The Sting,1973,7,nm0001351,George Roy Hill,1921-12-20,7,nm0000056,Paul Newman,1925-01-26,38,AgenturA,sting2,The Entertainer,Scott Joplin,2
+tt0070735,The Sting,1973,7,nm0001351,George Roy Hill,1921-12-20,7,nm0000056,Paul Newman,1925-01-26,38,AgenturA,sting3,The Easy Winners,Scott Joplin,3
+tt0070735,The Sting,1973,7,nm0001351,George Roy Hill,1921-12-20,7,nm0000056,Paul Newman,1925-01-26,38,AgenturA,sting4,Hooker's Hooker,Marvin Hamlisch,4
+tt0064115,Butch Cassidy and the Sundance Kid,1969,21,nm0001351,George Roy Hill,1921-12-20,7,nm0000056,Paul Newman,1925-01-26,38,AgenturA,butch1,The Sundance Kid,Burt Bacharach,1
+tt0064115,Butch Cassidy and the Sundance Kid,1969,21,nm0001351,George Roy Hill,1921-12-20,7,nm0000056,Paul Newman,1925-01-26,38,AgenturA,butch2,Raindrops keep Falling on my Head,Burt Bacharach,2
+tt0064115,Butch Cassidy and the Sundance Kid,1969,21,nm0001351,George Roy Hill,1921-12-20,7,nm0000056,Paul Newman,1925-01-26,38,AgenturA,butch3,Not Goin' Home Anaymore,Burt Bacharach,3
+tt0064115,Butch Cassidy and the Sundance Kid,1969,21,nm0001351,George Roy Hill,1921-12-20,7,nm0000602,Robert Redford,1936-08-18,43,AgenturA,butch1,The Sundance Kid,Burt Bacharach,1
+tt0064115,Butch Cassidy and the Sundance Kid,1969,21,nm0001351,George Roy Hill,1921-12-20,7,nm0000602,Robert Redford,1936-08-18,43,AgenturA,butch2,Raindrops keep Falling on my Head,Burt Bacharach,2
+tt0064115,Butch Cassidy and the Sundance Kid,1969,21,nm0001351,George Roy Hill,1921-12-20,7,nm0000602,Robert Redford,1936-08-18,43,AgenturA,butch3,Not Goin' Home Anaymore,Burt Bacharach,3
+tt0064115,Butch Cassidy and the Sundance Kid,1969,21,nm0001351,George Roy Hill,1921-12-20,7,nm0001684,Katherine Scott,1940-01-29,7,AgenturB,butch1,The Sundance Kid,Burt Bacharach,1
+tt0064115,Butch Cassidy and the Sundance Kid,1969,21,nm0001351,George Roy Hill,1921-12-20,7,nm0001684,Katherine Scott,1940-01-29,7,AgenturB,butch2,Raindrops keep Falling on my Head,Burt Bacharach,2
+tt0064115,Butch Cassidy and the Sundance Kid,1969,21,nm0001351,George Roy Hill,1921-12-20,7,nm0001684,Katherine Scott,1940-01-29,7,AgenturB,butch3,Not Goin' Home Anaymore,Burt Bacharach,3
+tt0061385,Barefoot in the Park,1967,0,nm0757256,Gene Saks,1921-11-08,0,nm0000404,Jane Fonda,1937-12-21,59,AgenturA,bare1,Barefoot in the Park,Neal Hefti,1
+tt0061385,Barefoot in the Park,1967,0,nm0757256,Gene Saks,1921-11-08,0,nm0000404,Jane Fonda,1937-12-21,59,AgenturA,bare2,Two O'Clock Capers,Neal Hefti,2
+tt0061385,Barefoot in the Park,1967,0,nm0757256,Gene Saks,1921-11-08,0,nm0000404,Jane Fonda,1937-12-21,59,AgenturA,bare3,Journey to the Four Winds,Neal Hefti,3
+tt0061385,Barefoot in the Park,1967,0,nm0757256,Gene Saks,1921-11-08,0,nm0000602,Robert Redford,1936-08-18,43,AgenturA,bare1,Barefoot in the Park,Neal Hefti,1
+tt0061385,Barefoot in the Park,1967,0,nm0757256,Gene Saks,1921-11-08,0,nm0000602,Robert Redford,1936-08-18,43,AgenturA,bare2,Two O'Clock Capers,Neal Hefti,2
+tt0061385,Barefoot in the Park,1967,0,nm0757256,Gene Saks,1921-11-08,0,nm0000602,Robert Redford,1936-08-18,43,AgenturA,bare3,Journey to the Four Winds,Neal Hefti,3
+tt0063374,The Odd Couple,1968,3,nm0757256,Gene Saks,1921-11-08,0,nm0000493,Jack Lemmon,1925-02-08,53,AgenturA,odd1,The Odd Couple Theme,Neal Hefti,1
+tt0063374,The Odd Couple,1968,3,nm0757256,Gene Saks,1921-11-08,0,nm0000527,Walter Matthau,1920-10-01,12,AgenturA,odd1,The Odd Couple Theme,Neal Hefti,1
+tt0266987,Spy Game,2001,0,nm0001716,Tony Scott,1944-06-21,6,nm0000602,Robert Redford,1936-08-18,43,AgenturA,spy1,Su-Chou Prison,Harry Gregson-Williams,1
+tt0266987,Spy Game,2001,0,nm0001716,Tony Scott,1944-06-21,6,nm0000602,Robert Redford,1936-08-18,43,AgenturA,spy2,Muir Races to Work,Harry Gregson-Williams,2
+tt0266987,Spy Game,2001,0,nm0001716,Tony Scott,1944-06-21,6,nm0000602,Robert Redford,1936-08-18,43,AgenturA,spy3,...He's Been Arrested for Espionage,Harry Gregson-Williams,3
+tt0266987,Spy Game,2001,0,nm0001716,Tony Scott,1944-06-21,6,nm0000602,Robert Redford,1936-08-18,43,AgenturA,spy4,Red Shirt,Harry Gregson-Williams,4
+tt0266987,Spy Game,2001,0,nm0001716,Tony Scott,1944-06-21,6,nm0000093,Brad Pitt,1968-12-18,121,AgenturB,spy1,Su-Chou Prison,Harry Gregson-Williams,1
+tt0266987,Spy Game,2001,0,nm0001716,Tony Scott,1944-06-21,6,nm0000093,Brad Pitt,1968-12-18,121,AgenturB,spy2,Muir Races to Work,Harry Gregson-Williams,2
+tt0266987,Spy Game,2001,0,nm0001716,Tony Scott,1944-06-21,6,nm0000093,Brad Pitt,1968-12-18,121,AgenturB,spy3,...He's Been Arrested for Espionage,Harry Gregson-Williams,3
+tt0266987,Spy Game,2001,0,nm0001716,Tony Scott,1944-06-21,6,nm0000093,Brad Pitt,1968-12-18,121,AgenturB,spy4,Red Shirt,Harry Gregson-Williams,4
+tt0073802,Three Days of the Condor,1975,6,nm0001628,Sydney Pollack,1934-07-01,29,nm0000602,Robert Redford,1936-08-18,43,AgenturA,three1,Condor!,Dave Grusin,1
+tt0073802,Three Days of the Condor,1975,6,nm0001628,Sydney Pollack,1934-07-01,29,nm0000602,Robert Redford,1936-08-18,43,AgenturA,three2,Yellow Panic,Dave Grusin,2
+tt0073802,Three Days of the Condor,1975,6,nm0001628,Sydney Pollack,1934-07-01,29,nm0000602,Robert Redford,1936-08-18,43,AgenturA,three3,Flight of the Condor,Dave Grusin,3
+tt0073802,Three Days of the Condor,1975,6,nm0001628,Sydney Pollack,1934-07-01,29,nm0000602,Robert Redford,1936-08-18,43,AgenturA,three4,We'll Bring You Home,Dave Grusin,4
+tt0089755,Out of Africa,1985,30,nm0001628,Sydney Pollack,1934-07-01,29,nm0000602,Robert Redford,1936-08-18,43,AgenturA,africa1,I had a Farm in Africa,John Barry,1
+tt0089755,Out of Africa,1985,30,nm0001628,Sydney Pollack,1934-07-01,29,nm0000602,Robert Redford,1936-08-18,43,AgenturA,africa2,I'm better at Hello,John Barry,2
+tt0089755,Out of Africa,1985,30,nm0001628,Sydney Pollack,1934-07-01,29,nm0000602,Robert Redford,1936-08-18,43,AgenturA,africa3,Have you got a Story for Me?,John Barry,3
+tt0089755,Out of Africa,1985,30,nm0001628,Sydney Pollack,1934-07-01,29,nm0000602,Robert Redford,1936-08-18,43,AgenturA,africa4,Safari,John Barry,4
+tt0089755,Out of Africa,1985,30,nm0001628,Sydney Pollack,1934-07-01,29,nm0000658,Meryl Streep,1949-06-22,178,AgenturB,africa1,I had a Farm in Africa,John Barry,1
+tt0089755,Out of Africa,1985,30,nm0001628,Sydney Pollack,1934-07-01,29,nm0000658,Meryl Streep,1949-06-22,178,AgenturB,africa2,I'm better at Hello,John Barry,2
+tt0089755,Out of Africa,1985,30,nm0001628,Sydney Pollack,1934-07-01,29,nm0000658,Meryl Streep,1949-06-22,178,AgenturB,africa3,Have you got a Story for Me?,John Barry,3
+tt0089755,Out of Africa,1985,30,nm0001628,Sydney Pollack,1934-07-01,29,nm0000658,Meryl Streep,1949-06-22,178,AgenturB,africa4,Safari,John Barry,4
