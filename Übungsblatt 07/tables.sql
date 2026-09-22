@@ -1,5 +1,36 @@
 /*
- * Aufgabe 1-3
+ * Aufgabe 1
+ */
+CREATE TABLE Lager (
+    TeilNr INTEGER PRIMARY KEY,
+    Regal  INTEGER,
+    Vorrat INTEGER
+);
+
+INSERT INTO Lager VALUES
+    (4,    8, 31),
+    (4713, 5, 19);
+
+/*
+CREATE TABLE Auslieferung (
+    LieferNr INTEGER PRIMARY KEY,
+    TeilNr   INTEGER,
+    Anzahl   INTEGER,
+    Preis    FLOAT,
+    FOREIGN KEY (TeilNr) REFERENCES Lager(TeilNr)
+);
+
+CREATE TABLE Nachbestellung (
+    TeilNr     INTEGER,
+    Anzahl     INTEGER,
+    Hersteller VARCHAR,
+    FOREIGN KEY (TeilNr) REFERENCES Lager(TeilNr)
+);
+*/
+
+
+/*
+ * Aufgabe 2-4
  */
 CREATE TABLE Hotel (
     HName             VARCHAR PRIMARY KEY,
@@ -63,32 +94,3 @@ INSERT INTO Buchung VALUES
     ( 6, 'Strandperle Hotel',     '2024-04-18', 5, 2, 1),
     ( 7, 'Seeblick Hotel',        '2024-04-17', 4, 1, 2),
     (15, 'Küstenparadies Resort', '2024-06-01', 3, 0, 3);
-
-
-
-/*
- * Aufgabe 4
- */
-CREATE TABLE Lager (
-    TeilNr INTEGER PRIMARY KEY,
-    Regal  INTEGER,
-    Vorrat INTEGER
-);
-
-INSERT INTO Lager VALUES
-    (4713, 5, 19);
-
-CREATE TABLE Auslieferung (
-    LieferNr INTEGER PRIMARY KEY,
-    TeilNr   INTEGER,
-    Anzahl   INTEGER,
-    Preis    FLOAT,
-    FOREIGN KEY (TeilNr) REFERENCES Lager(TeilNr)
-);
-
-CREATE TABLE Nachbestellung (
-    TeilNr     INTEGER,
-    Anzahl     INTEGER,
-    Hersteller VARCHAR,
-    FOREIGN KEY (TeilNr) REFERENCES Lager(TeilNr)
-);
